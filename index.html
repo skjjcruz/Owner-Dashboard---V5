@@ -662,6 +662,16 @@
                       <div className="text-xs px-2 py-1 rounded bg-slate-700">
                         Tier {player.tier}
                       </div>
+                      <button
+                        onClick={(e) => {
+                          e.stopPropagation();
+                          window.location.href = `player-detail.html?player=${encodeURIComponent(player.name)}`;
+                        }}
+                        className="ml-2 w-6 h-6 flex items-center justify-center rounded-full bg-yellow-500 hover:bg-yellow-400 text-slate-900 font-bold text-sm transition-colors"
+                        title="View player details"
+                      >
+                        ⓘ
+                      </button>
                     </div>
                   </div>
                 ))}
