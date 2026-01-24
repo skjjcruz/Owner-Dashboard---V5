@@ -9,6 +9,7 @@
   <script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
   <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
   <script src="https://cdn.tailwindcss.com"></script>
+  <script src="./csv-loader.js"></script>
   <style>
     body { margin: 0; padding: 0; overflow: hidden; }
     .scroll-container {
@@ -111,6 +112,7 @@
       const [players, setPlayers] = useState([]);
       const [draftPicks, setDraftPicks] = useState({});
       const [selectedPickSlot, setSelectedPickSlot] = useState(null);
+      const [selectedPlayerDetail, setSelectedPlayerDetail] = useState(null);
       
       // Get URL params on mount
       const urlParams = getUrlParams();
@@ -145,17 +147,16 @@
         }
       }, []);
 
-      // Load players from JSON file
+      // Load players from CSV files
       useEffect(() => {
-        fetch('./players-final.json')
-          .then(res => res.json())
+        loadPlayersFromCSV()
           .then(data => {
-            console.log(`Loaded ${data.length} players from players-final.json`);
+            console.log(`Loaded ${data.length} players from CSV files`);
             setPlayers(data);
           })
           .catch(err => {
             console.error('Error loading players:', err);
-            // Fallback to mock players if JSON fails to load
+            // Fallback to mock players if CSV fails to load
             setPlayers(mockPlayers);
           });
       }, []);
@@ -347,13 +348,15 @@
 
       const draftOrder = generateDraftOrder();
 
-      const filteredPlayers = players.filter(p => {
-        const matchesPos = selectedPos === 'ALL' || p.pos === selectedPos;
-        const matchesSearch = p.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
-                             (p.school && p.school.toLowerCase().includes(searchTerm.toLowerCase()));
-        const notDrafted = !Object.values(draftPicks).includes(p.id);
-        return matchesPos && matchesSearch && notDrafted;
-      });
+      const filteredPlayers = players
+        .filter(p => {
+          const matchesPos = selectedPos === 'ALL' || p.pos === selectedPos;
+          const matchesSearch = p.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
+                               (p.school && p.school.toLowerCase().includes(searchTerm.toLowerCase()));
+          const notDrafted = !Object.values(draftPicks).includes(p.id);
+          return matchesPos && matchesSearch && notDrafted;
+        })
+        .sort((a, b) => (a.consensusRank || 999) - (b.consensusRank || 999));
 
       const positionCounts = positions.reduce((acc, pos) => {
         acc[pos] = players.filter(p => p.pos === pos && !Object.values(draftPicks).includes(p.id)).length;
@@ -645,39 +648,133 @@
               </div>
 
               <div className="flex-1 overflow-y-auto scroll-container">
-                {filteredPlayers.map((player, idx) => (
+                {filteredPlayers.map((player) => (
                   <div
                     key={player.id}
-                    onClick={() => handlePlayerClick(player)}
-                    className="p-1.5 md:p-3 hover:bg-slate-800 cursor-pointer border-b border-slate-700"
+                    className="p-1.5 md:p-3 hover:bg-slate-800 border-b border-slate-700"
                   >
                     <div className="flex items-center gap-1 md:gap-3">
-                      <div className="w-6 md:w-8 text-slate-500 font-bold text-xs md:text-base">{idx + 1}</div>
-                      <div className="flex-1 min-w-0">
+                      <div className="w-8 md:w-12 text-slate-500 font-bold text-xs md:text-base text-center">#{player.rank}</div>
+                      <div
+                        className="flex-1 min-w-0 cursor-pointer"
+                        onClick={() => handlePlayerClick(player)}
+                      >
                         <div className="font-bold text-xs md:text-base truncate">{player.name}</div>
                         <div className="text-[10px] md:text-xs text-slate-400 truncate">
                           {player.pos} • {player.school} • {player.size} • {player.weight} lbs
                         </div>
                       </div>
+                      <button
+                        onClick={() => setSelectedPlayerDetail(player)}
+                        className="hidden md:block text-xs px-3 py-1.5 rounded bg-slate-700 hover:bg-slate-600 flex-shrink-0"
+                      >
+                        Details
+                      </button>
                       <div className="text-[10px] md:text-xs px-1 md:px-2 py-0.5 md:py-1 rounded bg-slate-700 flex-shrink-0">
                         T{player.tier}
                       </div>
-                      <button
-                        onClick={(e) => {
-                          e.stopPropagation();
-                          window.location.href = `player-detail.html?player=${encodeURIComponent(player.name)}`;
-                        }}
-                        className="ml-2 w-6 h-6 flex items-center justify-center rounded-full bg-yellow-500 hover:bg-yellow-400 text-slate-900 font-bold text-sm transition-colors"
-                        title="View player details"
-                      >
-                        ⓘ
-                      </button>
                     </div>
                   </div>
                 ))}
               </div>
             </div>
           </div>
+
+          {/* Player Detail Modal */}
+          {selectedPlayerDetail && (
+            <div
+              className="fixed inset-0 bg-black bg-opacity-75 flex items-center justify-center z-50 p-4"
+              onClick={() => setSelectedPlayerDetail(null)}
+            >
+              <div
+                className="bg-slate-900 rounded-lg max-w-4xl w-full max-h-[90vh] overflow-y-auto border border-slate-700"
+                onClick={(e) => e.stopPropagation()}
+              >
+                <div className="sticky top-0 bg-slate-800 px-6 py-4 border-b border-slate-700 flex justify-between items-center">
+                  <h2 className="text-2xl font-bold text-yellow-500">{selectedPlayerDetail.name}</h2>
+                  <button
+                    onClick={() => setSelectedPlayerDetail(null)}
+                    className="text-slate-400 hover:text-white text-2xl"
+                  >
+                    ×
+                  </button>
+                </div>
+
+                <div className="p-6">
+                  {/* Player Info Badges */}
+                  <div className="flex gap-3 mb-6">
+                    <span className="px-3 py-1 bg-yellow-500 text-slate-900 rounded font-bold text-sm">
+                      {selectedPlayerDetail.pos}
+                    </span>
+                    <span className="px-3 py-1 bg-slate-700 text-slate-100 rounded font-bold text-sm">
+                      {selectedPlayerDetail.school}
+                    </span>
+                    <span className="px-3 py-1 bg-slate-700 text-slate-100 rounded font-bold text-sm">
+                      {selectedPlayerDetail.year}
+                    </span>
+                  </div>
+
+                  {/* Stats Grid */}
+                  <div className="grid grid-cols-4 gap-4 mb-6">
+                    <div className="bg-slate-800 rounded-lg p-4 border border-slate-700">
+                      <div className="text-slate-400 text-xs uppercase mb-1">Height</div>
+                      <div className="text-yellow-500 text-xl font-bold">{selectedPlayerDetail.size || 'N/A'}</div>
+                    </div>
+                    <div className="bg-slate-800 rounded-lg p-4 border border-slate-700">
+                      <div className="text-slate-400 text-xs uppercase mb-1">Weight</div>
+                      <div className="text-yellow-500 text-xl font-bold">{selectedPlayerDetail.weight ? selectedPlayerDetail.weight + ' lbs' : 'N/A'}</div>
+                    </div>
+                    <div className="bg-slate-800 rounded-lg p-4 border border-slate-700">
+                      <div className="text-slate-400 text-xs uppercase mb-1">40 Time</div>
+                      <div className="text-yellow-500 text-xl font-bold">{selectedPlayerDetail.speed ? selectedPlayerDetail.speed + 's' : 'N/A'}</div>
+                    </div>
+                    <div className="bg-slate-800 rounded-lg p-4 border border-slate-700">
+                      <div className="text-slate-400 text-xs uppercase mb-1">Consensus Rank</div>
+                      <div className="text-yellow-500 text-xl font-bold">#{selectedPlayerDetail.rank}</div>
+                    </div>
+                  </div>
+
+                  {/* Source Rankings */}
+                  <div className="bg-slate-800 rounded-lg p-4 border border-slate-700">
+                    <h3 className="text-yellow-500 font-bold text-lg mb-4">Source Rankings</h3>
+                    {selectedPlayerDetail.sources && selectedPlayerDetail.sources.length > 0 ? (
+                      <div className="overflow-x-auto">
+                        <table className="w-full">
+                          <thead>
+                            <tr className="border-b border-slate-700">
+                              <th className="text-left py-2 px-3 text-yellow-500 text-sm">Source</th>
+                              <th className="text-right py-2 px-3 text-yellow-500 text-sm">Rank</th>
+                            </tr>
+                          </thead>
+                          <tbody>
+                            {selectedPlayerDetail.sources
+                              .sort((a, b) => a.rank - b.rank)
+                              .map((src, idx) => (
+                                <tr key={idx} className="border-b border-slate-700 hover:bg-slate-700">
+                                  <td className="py-2 px-3 text-slate-100">
+                                    {src.source}
+                                    {src.weight !== 1 && (
+                                      <span className="ml-2 text-xs text-slate-500">
+                                        (weight: {src.weight})
+                                      </span>
+                                    )}
+                                  </td>
+                                  <td className="py-2 px-3 text-right font-bold text-slate-100">
+                                    #{src.rank}
+                                  </td>
+                                </tr>
+                              ))}
+                          </tbody>
+                        </table>
+                      </div>
+                    ) : (
+                      <div className="text-center py-4 text-slate-500">No source rankings available.</div>
+                    )}
+                  </div>
+                </div>
+              </div>
+            </div>
+          )}
         </div>
       );
     };
