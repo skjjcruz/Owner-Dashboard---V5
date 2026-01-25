@@ -19,7 +19,8 @@ function escapeCSV(value) {
 // Create players.csv
 const playerHeaders = [
   'id', 'rank', 'name', 'pos', 'school', 'year', 'size',
-  'weight', 'speed', 'tier', 'consensusRank', 'sourceCount'
+  'weight', 'speed', 'tier', 'consensusRank', 'sourceCount',
+  'grade', 'isGenerational', 'fantasyMultiplier', 'draftScore', 'fantasyRank'
 ];
 
 let playersCsv = playerHeaders.join(',') + '\n';
