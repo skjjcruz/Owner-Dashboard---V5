@@ -79,6 +79,20 @@ const TIER_BOUNDARIES = [
   { max: Infinity, tier: 5 }
 ];
 
+// Fantasy scoring - Position multipliers (offensive > defensive)
+const POS_MULTIPLIERS = {
+  QB: 1.6,   // Quarterbacks - highest value
+  RB: 1.4,   // Running backs
+  WR: 1.4,   // Wide receivers
+  TE: 1.2,   // Tight ends
+  EDGE: 1.15,// Edge rushers - premium defensive
+  LB: 1.05,  // Linebackers
+  DL: 0.9,   // Defensive line
+  S: 0.9,    // Safeties
+  CB: 0.6,   // Cornerbacks
+  K: 0.4     // Kickers - lowest value
+};
+
 /**
  * Simple CSV parser
  */
@@ -376,6 +390,106 @@ function finalizeRankings(players) {
 }
 
 /**
+ * Convert consensus rank to a 0-10 grade scale
+ * Lower rank = higher grade (rank 1 = ~10, rank 100 = ~5)
+ */
+function rankToGrade(consensusRank) {
+  // Use logarithmic scale for better distribution
+  // Formula: 10 - (log(rank) / log(200) * 10)
+  // This gives: rank 1 ≈ 10.0, rank 10 ≈ 9.0, rank 50 ≈ 7.2, rank 100 ≈ 6.5
+  const grade = Math.max(0, 10 - (Math.log(consensusRank) / Math.log(200) * 10));
+  return Math.round(grade * 10) / 10; // Round to 1 decimal
+}
+
+/**
+ * Identify generational players (top 5% per position)
+ */
+function identifyGenerationalPlayers(players) {
+  console.log('\n⭐ Identifying generational players (top 5% per position)...');
+
+  // Group players by position
+  const byPosition = {};
+  players.forEach(p => {
+    if (!byPosition[p.pos]) byPosition[p.pos] = [];
+    byPosition[p.pos].push(p);
+  });
+
+  // Mark top 5% of each position as generational
+  const generationalPlayers = new Set();
+
+  Object.keys(byPosition).forEach(pos => {
+    const posPlayers = byPosition[pos];
+    const top5PercentCount = Math.max(1, Math.ceil(posPlayers.length * 0.05));
+
+    // Get top players by consensus rank (already sorted)
+    const topPlayers = posPlayers.slice(0, top5PercentCount);
+    topPlayers.forEach(p => generationalPlayers.add(p.id));
+
+    console.log(`   ${pos}: ${topPlayers.map(p => p.name).join(', ')} (${top5PercentCount} of ${posPlayers.length})`);
+  });
+
+  return generationalPlayers;
+}
+
+/**
+ * Calculate fantasy draft scores with position multipliers
+ */
+function calculateFantasyScores(players) {
+  console.log('\n🏈 Calculating fantasy draft scores...');
+
+  // First, identify generational players
+  const generationalPlayers = identifyGenerationalPlayers(players);
+
+  // Calculate draft scores for each player
+  const scoredPlayers = players.map(player => {
+    // Convert rank to grade (0-10 scale)
+    const grade = rankToGrade(player.consensusRank);
+
+    // Check if player is generational
+    const isGenerational = generationalPlayers.has(player.id);
+
+    // Apply position multiplier
+    const multiplier = POS_MULTIPLIERS[player.pos] || 1.0;
+    let draftScore = grade * multiplier;
+
+    // ELITE DEFENDER FIX: Boost generational defensive players
+    // Removes penalty to let elite defenders compete with offensive players
+    if (isGenerational && ['EDGE', 'LB', 'DL', 'S', 'CB'].includes(player.pos)) {
+      draftScore += 1.5;
+      console.log(`   ⭐ ${player.name} (${player.pos}) - Generational boost applied`);
+    }
+
+    // Round to 2 decimals
+    draftScore = Math.round(draftScore * 100) / 100;
+
+    return {
+      ...player,
+      grade: grade,
+      isGenerational: isGenerational,
+      fantasyMultiplier: multiplier,
+      draftScore: draftScore
+    };
+  });
+
+  // Sort by draft score (highest first) for fantasy purposes
+  const fantasyRanked = [...scoredPlayers].sort((a, b) => b.draftScore - a.draftScore);
+
+  // Add fantasy rank
+  fantasyRanked.forEach((player, idx) => {
+    player.fantasyRank = idx + 1;
+  });
+
+  console.log('\n   Top 10 by Fantasy Draft Score:');
+  fantasyRanked.slice(0, 10).forEach(p => {
+    const generational = p.isGenerational ? '⭐' : '';
+    console.log(`   ${p.fantasyRank}. ${p.name} (${p.pos}) ${generational} - Score: ${p.draftScore} (Grade: ${p.grade}, Mult: ${p.fantasyMultiplier}x)`);
+  });
+
+  // Return original array with fantasy data added (keep consensus rank order)
+  return scoredPlayers;
+}
+
+/**
  * Display statistics
  */
 function displayStats(players) {
@@ -404,7 +518,7 @@ function displayStats(players) {
     console.log(`   - Tier ${tier}: ${tierCounts[tier]}`);
   });
 
-  console.log('\n   Top 10 players:');
+  console.log('\n   Top 10 by Consensus Rank:');
   players.slice(0, 10).forEach(p => {
     console.log(`   ${p.rank}. ${p.name} (${p.pos}) - Consensus: ${p.consensusRank}`);
   });
@@ -435,6 +549,9 @@ function main() {
 
     // Finalize with ranks and tiers
     players = finalizeRankings(players);
+
+    // Calculate fantasy draft scores
+    players = calculateFantasyScores(players);
 
     // Display stats
     displayStats(players);

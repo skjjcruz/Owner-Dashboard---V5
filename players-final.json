@@ -66,7 +66,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 8.1,
+    "isGenerational": true,
+    "fantasyMultiplier": 1.6,
+    "draftScore": 12.96,
+    "fantasyRank": 1
   },
   {
     "id": 2,
@@ -135,7 +140,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 7.9,
+    "isGenerational": true,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 8.61,
+    "fantasyRank": 6
   },
   {
     "id": 3,
@@ -204,7 +214,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 7.6,
+    "isGenerational": true,
+    "fantasyMultiplier": 1.05,
+    "draftScore": 9.48,
+    "fantasyRank": 3
   },
   {
     "id": 4,
@@ -273,7 +288,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 7.1,
+    "isGenerational": true,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 9.94,
+    "fantasyRank": 2
   },
   {
     "id": 5,
@@ -342,7 +362,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 6.8,
+    "isGenerational": true,
+    "fantasyMultiplier": 1.15,
+    "draftScore": 9.32,
+    "fantasyRank": 4
   },
   {
     "id": 6,
@@ -411,7 +436,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 6.2,
+    "isGenerational": true,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 8.68,
+    "fantasyRank": 5
   },
   {
     "id": 7,
@@ -480,7 +510,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 6.1,
+    "isGenerational": true,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 8.54,
+    "fantasyRank": 7
   },
   {
     "id": 8,
@@ -549,7 +584,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 5.8,
+    "isGenerational": true,
+    "fantasyMultiplier": 1.15,
+    "draftScore": 8.17,
+    "fantasyRank": 8
   },
   {
     "id": 9,
@@ -618,7 +658,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 5.7,
+    "isGenerational": true,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 6.63,
+    "fantasyRank": 13
   },
   {
     "id": 10,
@@ -687,7 +732,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 5.5,
+    "isGenerational": true,
+    "fantasyMultiplier": 1.15,
+    "draftScore": 7.82,
+    "fantasyRank": 9
   },
   {
     "id": 11,
@@ -756,7 +806,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 5.4,
+    "isGenerational": true,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 4.74,
+    "fantasyRank": 21
   },
   {
     "id": 12,
@@ -825,7 +880,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 5.3,
+    "isGenerational": true,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 4.68,
+    "fantasyRank": 22
   },
   {
     "id": 13,
@@ -894,7 +954,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 5,
+    "isGenerational": true,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 7,
+    "fantasyRank": 11
   },
   {
     "id": 14,
@@ -963,7 +1028,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 4.9,
+    "isGenerational": true,
+    "fantasyMultiplier": 1.05,
+    "draftScore": 6.65,
+    "fantasyRank": 12
   },
   {
     "id": 15,
@@ -1032,7 +1102,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 4.8,
+    "isGenerational": true,
+    "fantasyMultiplier": 1.2,
+    "draftScore": 5.76,
+    "fantasyRank": 16
   },
   {
     "id": 16,
@@ -1096,7 +1171,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 4.6,
+    "isGenerational": true,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 4.26,
+    "fantasyRank": 25
   },
   {
     "id": 17,
@@ -1160,7 +1240,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 4.5,
+    "isGenerational": true,
+    "fantasyMultiplier": 1.6,
+    "draftScore": 7.2,
+    "fantasyRank": 10
   },
   {
     "id": 18,
@@ -1229,7 +1314,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 4.3,
+    "isGenerational": true,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 6.02,
+    "fantasyRank": 14
   },
   {
     "id": 19,
@@ -1288,7 +1378,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 4.2,
+    "isGenerational": true,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 5.28,
+    "fantasyRank": 18
   },
   {
     "id": 20,
@@ -1357,7 +1452,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 4.1,
+    "isGenerational": true,
+    "fantasyMultiplier": 1.05,
+    "draftScore": 5.81,
+    "fantasyRank": 15
   },
   {
     "id": 21,
@@ -1416,7 +1516,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 4.1,
+    "isGenerational": true,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 5.74,
+    "fantasyRank": 17
   },
   {
     "id": 22,
@@ -1480,7 +1585,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 4,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.15,
+    "draftScore": 4.6,
+    "fantasyRank": 23
   },
   {
     "id": 23,
@@ -1539,7 +1649,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 3.9,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.15,
+    "draftScore": 4.48,
+    "fantasyRank": 24
   },
   {
     "id": 24,
@@ -1588,7 +1703,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 3.9,
+    "isGenerational": true,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 5.01,
+    "fantasyRank": 19
   },
   {
     "id": 25,
@@ -1642,7 +1762,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 3.7,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 3.33,
+    "fantasyRank": 37
   },
   {
     "id": 26,
@@ -1696,7 +1821,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 3.7,
+    "isGenerational": true,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 3.72,
+    "fantasyRank": 32
   },
   {
     "id": 27,
@@ -1755,7 +1885,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 3.6,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 2.16,
+    "fantasyRank": 70
   },
   {
     "id": 28,
@@ -1814,7 +1949,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 3.4,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 4.76,
+    "fantasyRank": 20
   },
   {
     "id": 29,
@@ -1868,7 +2008,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 3.3,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.15,
+    "draftScore": 3.79,
+    "fantasyRank": 29
   },
   {
     "id": 30,
@@ -1932,7 +2077,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 3.3,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.15,
+    "draftScore": 3.79,
+    "fantasyRank": 30
   },
   {
     "id": 31,
@@ -1991,7 +2141,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 3.3,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.05,
+    "draftScore": 3.47,
+    "fantasyRank": 35
   },
   {
     "id": 32,
@@ -2040,7 +2195,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 3.2,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 1.92,
+    "fantasyRank": 77
   },
   {
     "id": 33,
@@ -2089,7 +2249,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 3,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 1.8,
+    "fantasyRank": 80
   },
   {
     "id": 34,
@@ -2143,7 +2308,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 2.9,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.15,
+    "draftScore": 3.33,
+    "fantasyRank": 38
   },
   {
     "id": 35,
@@ -2197,7 +2367,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 2.9,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.15,
+    "draftScore": 3.33,
+    "fantasyRank": 39
   },
   {
     "id": 36,
@@ -2256,7 +2431,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 2.9,
+    "isGenerational": true,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 4.11,
+    "fantasyRank": 26
   },
   {
     "id": 37,
@@ -2310,7 +2490,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 2.9,
+    "isGenerational": true,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 4.11,
+    "fantasyRank": 27
   },
   {
     "id": 38,
@@ -2369,7 +2554,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 2.8,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 3.92,
+    "fantasyRank": 28
   },
   {
     "id": 39,
@@ -2423,7 +2613,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 2.8,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 2.52,
+    "fantasyRank": 53
   },
   {
     "id": 40,
@@ -2457,7 +2652,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 2.8,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 2.52,
+    "fantasyRank": 54
   },
   {
     "id": 41,
@@ -2511,7 +2711,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 2.7,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.15,
+    "draftScore": 3.11,
+    "fantasyRank": 42
   },
   {
     "id": 42,
@@ -2560,7 +2765,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 2.7,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 3.78,
+    "fantasyRank": 31
   },
   {
     "id": 43,
@@ -2614,7 +2824,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 2.6,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 1.56,
+    "fantasyRank": 90
   },
   {
     "id": 44,
@@ -2668,7 +2883,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 2.6,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.05,
+    "draftScore": 2.73,
+    "fantasyRank": 49
   },
   {
     "id": 45,
@@ -2717,7 +2937,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 2.6,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 2.34,
+    "fantasyRank": 61
   },
   {
     "id": 46,
@@ -2771,7 +2996,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 2.6,
+    "isGenerational": true,
+    "fantasyMultiplier": 1.2,
+    "draftScore": 3.12,
+    "fantasyRank": 41
   },
   {
     "id": 47,
@@ -2820,7 +3050,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 2.6,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 3.64,
+    "fantasyRank": 33
   },
   {
     "id": 48,
@@ -2879,7 +3114,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 2.5,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.15,
+    "draftScore": 2.88,
+    "fantasyRank": 46
   },
   {
     "id": 49,
@@ -2928,7 +3168,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 2.5,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 2.25,
+    "fantasyRank": 63
   },
   {
     "id": 50,
@@ -2982,7 +3227,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 2.5,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 3.5,
+    "fantasyRank": 34
   },
   {
     "id": 51,
@@ -3031,7 +3281,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 2.5,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.15,
+    "draftScore": 2.88,
+    "fantasyRank": 47
   },
   {
     "id": 52,
@@ -3070,7 +3325,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 2.5,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 2.25,
+    "fantasyRank": 64
   },
   {
     "id": 53,
@@ -3114,7 +3374,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 2.4,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.05,
+    "draftScore": 2.52,
+    "fantasyRank": 55
   },
   {
     "id": 54,
@@ -3163,7 +3428,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 2.4,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.05,
+    "draftScore": 2.52,
+    "fantasyRank": 56
   },
   {
     "id": 55,
@@ -3192,7 +3462,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 2.4,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.15,
+    "draftScore": 2.76,
+    "fantasyRank": 48
   },
   {
     "id": 56,
@@ -3246,7 +3521,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 2.4,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 3.36,
+    "fantasyRank": 36
   },
   {
     "id": 57,
@@ -3295,7 +3575,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 2.3,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 3.22,
+    "fantasyRank": 40
   },
   {
     "id": 58,
@@ -3349,7 +3634,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 2.3,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 2.07,
+    "fantasyRank": 72
   },
   {
     "id": 59,
@@ -3408,7 +3698,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 2.2,
+    "isGenerational": true,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 3.08,
+    "fantasyRank": 43
   },
   {
     "id": 60,
@@ -3457,7 +3752,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 2.2,
+    "isGenerational": true,
+    "fantasyMultiplier": 1.2,
+    "draftScore": 2.64,
+    "fantasyRank": 52
   },
   {
     "id": 61,
@@ -3506,7 +3806,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 2.2,
+    "isGenerational": true,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 3.08,
+    "fantasyRank": 44
   },
   {
     "id": 62,
@@ -3550,7 +3855,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 2.1,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.05,
+    "draftScore": 2.21,
+    "fantasyRank": 67
   },
   {
     "id": 63,
@@ -3599,7 +3909,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 2.1,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 1.26,
+    "fantasyRank": 110
   },
   {
     "id": 64,
@@ -3653,7 +3968,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 2.1,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 2.94,
+    "fantasyRank": 45
   },
   {
     "id": 65,
@@ -3692,7 +4012,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 2,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 1.2,
+    "fantasyRank": 115
   },
   {
     "id": 66,
@@ -3746,7 +4071,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 2,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.15,
+    "draftScore": 2.3,
+    "fantasyRank": 62
   },
   {
     "id": 67,
@@ -3770,7 +4100,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 2,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.2,
+    "draftScore": 2.4,
+    "fantasyRank": 57
   },
   {
     "id": 68,
@@ -3819,7 +4154,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1.9,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 1.14,
+    "fantasyRank": 117
   },
   {
     "id": 69,
@@ -3873,7 +4213,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1.9,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 1.71,
+    "fantasyRank": 82
   },
   {
     "id": 70,
@@ -3927,7 +4272,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1.9,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 1.14,
+    "fantasyRank": 118
   },
   {
     "id": 71,
@@ -3981,7 +4331,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1.9,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.15,
+    "draftScore": 2.18,
+    "fantasyRank": 68
   },
   {
     "id": 72,
@@ -4030,7 +4385,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1.9,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.15,
+    "draftScore": 2.18,
+    "fantasyRank": 69
   },
   {
     "id": 73,
@@ -4069,7 +4429,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1.8,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 1.62,
+    "fantasyRank": 87
   },
   {
     "id": 74,
@@ -4118,7 +4483,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1.8,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 1.62,
+    "fantasyRank": 88
   },
   {
     "id": 75,
@@ -4167,7 +4537,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1.8,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.2,
+    "draftScore": 2.16,
+    "fantasyRank": 71
   },
   {
     "id": 76,
@@ -4191,7 +4566,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1.8,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.05,
+    "draftScore": 1.89,
+    "fantasyRank": 79
   },
   {
     "id": 77,
@@ -4235,7 +4615,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1.7,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 2.38,
+    "fantasyRank": 59
   },
   {
     "id": 78,
@@ -4289,7 +4674,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1.7,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 2.38,
+    "fantasyRank": 60
   },
   {
     "id": 79,
@@ -4343,7 +4733,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1.7,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.15,
+    "draftScore": 1.95,
+    "fantasyRank": 76
   },
   {
     "id": 80,
@@ -4397,7 +4792,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1.7,
+    "isGenerational": true,
+    "fantasyMultiplier": 1.6,
+    "draftScore": 2.72,
+    "fantasyRank": 50
   },
   {
     "id": 81,
@@ -4446,7 +4846,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1.7,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.6,
+    "draftScore": 2.72,
+    "fantasyRank": 51
   },
   {
     "id": 82,
@@ -4475,7 +4880,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1.7,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 1.02,
+    "fantasyRank": 127
   },
   {
     "id": 83,
@@ -4524,7 +4934,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1.7,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 1.53,
+    "fantasyRank": 96
   },
   {
     "id": 84,
@@ -4568,7 +4983,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1.6,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0.96,
+    "fantasyRank": 132
   },
   {
     "id": 85,
@@ -4622,7 +5042,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1.6,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.05,
+    "draftScore": 1.68,
+    "fantasyRank": 83
   },
   {
     "id": 86,
@@ -4661,7 +5086,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1.6,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 1.44,
+    "fantasyRank": 99
   },
   {
     "id": 87,
@@ -4710,7 +5140,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1.6,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 2.24,
+    "fantasyRank": 65
   },
   {
     "id": 88,
@@ -4734,7 +5169,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1.6,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 1.44,
+    "fantasyRank": 100
   },
   {
     "id": 89,
@@ -4778,7 +5218,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1.6,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.05,
+    "draftScore": 1.68,
+    "fantasyRank": 84
   },
   {
     "id": 90,
@@ -4827,7 +5272,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1.6,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0.96,
+    "fantasyRank": 133
   },
   {
     "id": 91,
@@ -4871,7 +5321,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1.6,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 2.24,
+    "fantasyRank": 66
   },
   {
     "id": 92,
@@ -4920,7 +5375,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1.5,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 1.35,
+    "fantasyRank": 107
   },
   {
     "id": 93,
@@ -4969,7 +5429,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1.5,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.6,
+    "draftScore": 2.4,
+    "fantasyRank": 58
   },
   {
     "id": 94,
@@ -5013,7 +5478,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1.4,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 1.96,
+    "fantasyRank": 73
   },
   {
     "id": 95,
@@ -5037,7 +5507,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1.4,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.05,
+    "draftScore": 1.47,
+    "fantasyRank": 97
   },
   {
     "id": 96,
@@ -5086,7 +5561,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1.4,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.05,
+    "draftScore": 1.47,
+    "fantasyRank": 98
   },
   {
     "id": 97,
@@ -5135,7 +5615,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1.4,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 1.96,
+    "fantasyRank": 74
   },
   {
     "id": 98,
@@ -5189,7 +5674,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1.4,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 1.96,
+    "fantasyRank": 75
   },
   {
     "id": 99,
@@ -5228,7 +5718,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1.4,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.15,
+    "draftScore": 1.61,
+    "fantasyRank": 89
   },
   {
     "id": 100,
@@ -5277,7 +5772,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1.4,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.2,
+    "draftScore": 1.68,
+    "fantasyRank": 85
   },
   {
     "id": 101,
@@ -5311,7 +5811,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1.3,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.2,
+    "draftScore": 1.56,
+    "fantasyRank": 91
   },
   {
     "id": 102,
@@ -5355,7 +5860,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1.2,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.2,
+    "draftScore": 1.44,
+    "fantasyRank": 101
   },
   {
     "id": 103,
@@ -5399,7 +5909,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1.2,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 1.68,
+    "fantasyRank": 86
   },
   {
     "id": 104,
@@ -5423,7 +5938,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1.2,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.15,
+    "draftScore": 1.38,
+    "fantasyRank": 104
   },
   {
     "id": 105,
@@ -5472,7 +5992,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1.2,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.6,
+    "draftScore": 1.92,
+    "fantasyRank": 78
   },
   {
     "id": 106,
@@ -5521,7 +6046,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1.2,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 1.08,
+    "fantasyRank": 124
   },
   {
     "id": 107,
@@ -5555,7 +6085,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1.2,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.2,
+    "draftScore": 1.44,
+    "fantasyRank": 102
   },
   {
     "id": 108,
@@ -5599,7 +6134,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1.2,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.15,
+    "draftScore": 1.38,
+    "fantasyRank": 105
   },
   {
     "id": 109,
@@ -5623,7 +6163,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1.2,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.15,
+    "draftScore": 1.38,
+    "fantasyRank": 106
   },
   {
     "id": 110,
@@ -5672,7 +6217,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1.2,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0.72,
+    "fantasyRank": 159
   },
   {
     "id": 111,
@@ -5701,7 +6251,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1.1,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 1.54,
+    "fantasyRank": 92
   },
   {
     "id": 112,
@@ -5730,7 +6285,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1.1,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0.99,
+    "fantasyRank": 128
   },
   {
     "id": 113,
@@ -5774,7 +6334,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1.1,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.2,
+    "draftScore": 1.32,
+    "fantasyRank": 108
   },
   {
     "id": 114,
@@ -5818,7 +6383,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1.1,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0.66,
+    "fantasyRank": 166
   },
   {
     "id": 115,
@@ -5867,7 +6437,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1.1,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 1.54,
+    "fantasyRank": 93
   },
   {
     "id": 116,
@@ -5911,7 +6486,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1.1,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0.99,
+    "fantasyRank": 129
   },
   {
     "id": 117,
@@ -5950,7 +6530,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1.1,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0.66,
+    "fantasyRank": 167
   },
   {
     "id": 118,
@@ -5999,7 +6584,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1.1,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 1.54,
+    "fantasyRank": 94
   },
   {
     "id": 119,
@@ -6043,7 +6633,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1.1,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.05,
+    "draftScore": 1.16,
+    "fantasyRank": 116
   },
   {
     "id": 120,
@@ -6092,7 +6687,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1.1,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.6,
+    "draftScore": 1.76,
+    "fantasyRank": 81
   },
   {
     "id": 121,
@@ -6141,7 +6741,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1.1,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.2,
+    "draftScore": 1.32,
+    "fantasyRank": 109
   },
   {
     "id": 122,
@@ -6190,7 +6795,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1.1,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0.99,
+    "fantasyRank": 130
   },
   {
     "id": 123,
@@ -6239,7 +6849,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1.1,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 1.54,
+    "fantasyRank": 95
   },
   {
     "id": 124,
@@ -6263,7 +6878,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0.9,
+    "fantasyRank": 143
   },
   {
     "id": 125,
@@ -6307,7 +6927,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 1.4,
+    "fantasyRank": 103
   },
   {
     "id": 126,
@@ -6346,7 +6971,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0.9,
+    "fantasyRank": 144
   },
   {
     "id": 127,
@@ -6370,7 +7000,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0.9,
+    "fantasyRank": 145
   },
   {
     "id": 128,
@@ -6399,7 +7034,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0.6,
+    "fantasyRank": 170
   },
   {
     "id": 129,
@@ -6428,7 +7068,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 1,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0.9,
+    "fantasyRank": 146
   },
   {
     "id": 130,
@@ -6467,7 +7112,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.9,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 1.26,
+    "fantasyRank": 111
   },
   {
     "id": 131,
@@ -6496,7 +7146,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.9,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.15,
+    "draftScore": 1.03,
+    "fantasyRank": 125
   },
   {
     "id": 132,
@@ -6530,7 +7185,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.9,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0.54,
+    "fantasyRank": 177
   },
   {
     "id": 133,
@@ -6569,7 +7229,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.9,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0.81,
+    "fantasyRank": 150
   },
   {
     "id": 134,
@@ -6613,7 +7278,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.9,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0.81,
+    "fantasyRank": 151
   },
   {
     "id": 135,
@@ -6652,7 +7322,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.9,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0.81,
+    "fantasyRank": 152
   },
   {
     "id": 136,
@@ -6681,7 +7356,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.9,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0.81,
+    "fantasyRank": 153
   },
   {
     "id": 137,
@@ -6725,7 +7405,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.9,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 1.26,
+    "fantasyRank": 112
   },
   {
     "id": 138,
@@ -6749,7 +7434,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.9,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 1.26,
+    "fantasyRank": 113
   },
   {
     "id": 139,
@@ -6778,7 +7468,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.9,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.15,
+    "draftScore": 1.03,
+    "fantasyRank": 126
   },
   {
     "id": 140,
@@ -6812,7 +7507,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.9,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0.54,
+    "fantasyRank": 178
   },
   {
     "id": 141,
@@ -6856,7 +7556,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.9,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.05,
+    "draftScore": 0.95,
+    "fantasyRank": 139
   },
   {
     "id": 142,
@@ -6885,7 +7590,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.9,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0.81,
+    "fantasyRank": 154
   },
   {
     "id": 143,
@@ -6924,7 +7634,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.9,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 1.26,
+    "fantasyRank": 114
   },
   {
     "id": 144,
@@ -6953,7 +7668,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.8,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 1.12,
+    "fantasyRank": 119
   },
   {
     "id": 145,
@@ -7002,7 +7722,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.8,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.15,
+    "draftScore": 0.92,
+    "fantasyRank": 140
   },
   {
     "id": 146,
@@ -7041,7 +7766,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.8,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.05,
+    "draftScore": 0.84,
+    "fantasyRank": 147
   },
   {
     "id": 147,
@@ -7075,7 +7805,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.8,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.15,
+    "draftScore": 0.92,
+    "fantasyRank": 141
   },
   {
     "id": 148,
@@ -7124,7 +7859,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.8,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 1.12,
+    "fantasyRank": 120
   },
   {
     "id": 149,
@@ -7153,7 +7893,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.8,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.15,
+    "draftScore": 0.92,
+    "fantasyRank": 142
   },
   {
     "id": 150,
@@ -7197,7 +7942,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.8,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.2,
+    "draftScore": 0.96,
+    "fantasyRank": 134
   },
   {
     "id": 151,
@@ -7241,7 +7991,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.8,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0.72,
+    "fantasyRank": 160
   },
   {
     "id": 152,
@@ -7275,7 +8030,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.8,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 1.12,
+    "fantasyRank": 121
   },
   {
     "id": 153,
@@ -7314,7 +8074,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.8,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.2,
+    "draftScore": 0.96,
+    "fantasyRank": 135
   },
   {
     "id": 154,
@@ -7348,7 +8113,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.8,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.05,
+    "draftScore": 0.84,
+    "fantasyRank": 148
   },
   {
     "id": 155,
@@ -7372,7 +8142,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.8,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0.72,
+    "fantasyRank": 161
   },
   {
     "id": 156,
@@ -7411,7 +8186,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.8,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.2,
+    "draftScore": 0.96,
+    "fantasyRank": 136
   },
   {
     "id": 157,
@@ -7445,7 +8225,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.8,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 1.12,
+    "fantasyRank": 122
   },
   {
     "id": 158,
@@ -7479,7 +8264,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.8,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 1.12,
+    "fantasyRank": 123
   },
   {
     "id": 159,
@@ -7513,7 +8303,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.7,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.15,
+    "draftScore": 0.81,
+    "fantasyRank": 155
   },
   {
     "id": 160,
@@ -7542,7 +8337,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.7,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.05,
+    "draftScore": 0.74,
+    "fantasyRank": 158
   },
   {
     "id": 161,
@@ -7586,7 +8386,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.7,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0.42,
+    "fantasyRank": 187
   },
   {
     "id": 162,
@@ -7625,7 +8430,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.7,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.15,
+    "draftScore": 0.81,
+    "fantasyRank": 156
   },
   {
     "id": 163,
@@ -7649,7 +8459,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.7,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0.98,
+    "fantasyRank": 131
   },
   {
     "id": 164,
@@ -7683,7 +8498,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.7,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0.63,
+    "fantasyRank": 169
   },
   {
     "id": 165,
@@ -7722,7 +8542,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.7,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0.42,
+    "fantasyRank": 188
   },
   {
     "id": 166,
@@ -7746,7 +8571,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.6,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.6,
+    "draftScore": 0.96,
+    "fantasyRank": 137
   },
   {
     "id": 167,
@@ -7780,7 +8610,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.6,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0.54,
+    "fantasyRank": 179
   },
   {
     "id": 168,
@@ -7819,7 +8654,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.6,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.2,
+    "draftScore": 0.72,
+    "fantasyRank": 162
   },
   {
     "id": 169,
@@ -7858,7 +8698,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.6,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.6,
+    "draftScore": 0.96,
+    "fantasyRank": 138
   },
   {
     "id": 170,
@@ -7897,7 +8742,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.6,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.2,
+    "draftScore": 0.72,
+    "fantasyRank": 163
   },
   {
     "id": 171,
@@ -7931,7 +8781,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.6,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0.54,
+    "fantasyRank": 180
   },
   {
     "id": 172,
@@ -7965,7 +8820,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.6,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0.84,
+    "fantasyRank": 149
   },
   {
     "id": 173,
@@ -7999,7 +8859,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.6,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0.54,
+    "fantasyRank": 181
   },
   {
     "id": 174,
@@ -8033,7 +8898,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.6,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0.54,
+    "fantasyRank": 182
   },
   {
     "id": 175,
@@ -8067,7 +8937,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.6,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.15,
+    "draftScore": 0.69,
+    "fantasyRank": 165
   },
   {
     "id": 176,
@@ -8101,7 +8976,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.6,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.2,
+    "draftScore": 0.72,
+    "fantasyRank": 164
   },
   {
     "id": 177,
@@ -8135,7 +9015,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.6,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0.36,
+    "fantasyRank": 197
   },
   {
     "id": 178,
@@ -8169,7 +9054,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.5,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0.3,
+    "fantasyRank": 212
   },
   {
     "id": 179,
@@ -8213,7 +9103,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.5,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.15,
+    "draftScore": 0.57,
+    "fantasyRank": 174
   },
   {
     "id": 180,
@@ -8242,7 +9137,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.5,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0.3,
+    "fantasyRank": 213
   },
   {
     "id": 181,
@@ -8286,7 +9186,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.5,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.2,
+    "draftScore": 0.6,
+    "fantasyRank": 171
   },
   {
     "id": 182,
@@ -8320,7 +9225,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.5,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.2,
+    "draftScore": 0.6,
+    "fantasyRank": 172
   },
   {
     "id": 183,
@@ -8364,7 +9274,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.5,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0.45,
+    "fantasyRank": 186
   },
   {
     "id": 184,
@@ -8393,7 +9308,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.5,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0.3,
+    "fantasyRank": 214
   },
   {
     "id": 185,
@@ -8422,7 +9342,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.5,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.2,
+    "draftScore": 0.6,
+    "fantasyRank": 173
   },
   {
     "id": 186,
@@ -8461,7 +9386,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.5,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.15,
+    "draftScore": 0.57,
+    "fantasyRank": 175
   },
   {
     "id": 187,
@@ -8500,7 +9430,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.5,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.6,
+    "draftScore": 0.8,
+    "fantasyRank": 157
   },
   {
     "id": 188,
@@ -8534,7 +9469,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.4,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0.36,
+    "fantasyRank": 198
   },
   {
     "id": 189,
@@ -8563,7 +9503,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.4,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.15,
+    "draftScore": 0.46,
+    "fantasyRank": 185
   },
   {
     "id": 190,
@@ -8587,7 +9532,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.4,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0.24,
+    "fantasyRank": 222
   },
   {
     "id": 191,
@@ -8621,7 +9571,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.4,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.05,
+    "draftScore": 0.42,
+    "fantasyRank": 189
   },
   {
     "id": 192,
@@ -8650,7 +9605,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.4,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0.36,
+    "fantasyRank": 199
   },
   {
     "id": 193,
@@ -8684,7 +9644,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.4,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0.56,
+    "fantasyRank": 176
   },
   {
     "id": 194,
@@ -8723,7 +9688,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.4,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.6,
+    "draftScore": 0.64,
+    "fantasyRank": 168
   },
   {
     "id": 195,
@@ -8757,7 +9727,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.4,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0.36,
+    "fantasyRank": 200
   },
   {
     "id": 196,
@@ -8791,7 +9766,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.3,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0.42,
+    "fantasyRank": 190
   },
   {
     "id": 197,
@@ -8830,7 +9810,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.3,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0.27,
+    "fantasyRank": 219
   },
   {
     "id": 198,
@@ -8859,7 +9844,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.3,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0.42,
+    "fantasyRank": 191
   },
   {
     "id": 199,
@@ -8883,7 +9873,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.3,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.05,
+    "draftScore": 0.32,
+    "fantasyRank": 204
   },
   {
     "id": 200,
@@ -8912,7 +9907,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.3,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0.27,
+    "fantasyRank": 220
   },
   {
     "id": 201,
@@ -8946,7 +9946,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.3,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.2,
+    "draftScore": 0.36,
+    "fantasyRank": 201
   },
   {
     "id": 202,
@@ -8975,7 +9980,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.3,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.15,
+    "draftScore": 0.35,
+    "fantasyRank": 202
   },
   {
     "id": 203,
@@ -9004,7 +10014,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.3,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0.27,
+    "fantasyRank": 221
   },
   {
     "id": 204,
@@ -9038,7 +10053,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.3,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0.18,
+    "fantasyRank": 224
   },
   {
     "id": 205,
@@ -9072,7 +10092,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.3,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0.42,
+    "fantasyRank": 192
   },
   {
     "id": 206,
@@ -9101,7 +10126,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.3,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0.18,
+    "fantasyRank": 225
   },
   {
     "id": 207,
@@ -9135,7 +10165,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.3,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0.42,
+    "fantasyRank": 193
   },
   {
     "id": 208,
@@ -9159,7 +10194,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.3,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0.18,
+    "fantasyRank": 226
   },
   {
     "id": 209,
@@ -9183,7 +10223,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.3,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0.42,
+    "fantasyRank": 194
   },
   {
     "id": 210,
@@ -9212,7 +10257,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.3,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.15,
+    "draftScore": 0.35,
+    "fantasyRank": 203
   },
   {
     "id": 211,
@@ -9251,7 +10301,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.3,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.6,
+    "draftScore": 0.48,
+    "fantasyRank": 183
   },
   {
     "id": 212,
@@ -9285,7 +10340,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.3,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0.42,
+    "fantasyRank": 195
   },
   {
     "id": 213,
@@ -9319,7 +10379,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.3,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.6,
+    "draftScore": 0.48,
+    "fantasyRank": 184
   },
   {
     "id": 214,
@@ -9358,7 +10423,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.3,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0.42,
+    "fantasyRank": 196
   },
   {
     "id": 215,
@@ -9382,7 +10452,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.3,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0.18,
+    "fantasyRank": 227
   },
   {
     "id": 216,
@@ -9406,7 +10481,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.2,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.6,
+    "draftScore": 0.32,
+    "fantasyRank": 205
   },
   {
     "id": 217,
@@ -9430,7 +10510,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.2,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.6,
+    "draftScore": 0.32,
+    "fantasyRank": 206
   },
   {
     "id": 218,
@@ -9464,7 +10549,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.2,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0.28,
+    "fantasyRank": 215
   },
   {
     "id": 219,
@@ -9498,7 +10588,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.2,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.6,
+    "draftScore": 0.32,
+    "fantasyRank": 207
   },
   {
     "id": 220,
@@ -9522,7 +10617,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.2,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.6,
+    "draftScore": 0.32,
+    "fantasyRank": 208
   },
   {
     "id": 221,
@@ -9551,7 +10651,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.2,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0.28,
+    "fantasyRank": 216
   },
   {
     "id": 222,
@@ -9580,7 +10685,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.2,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0.28,
+    "fantasyRank": 217
   },
   {
     "id": 223,
@@ -9604,7 +10714,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.2,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.6,
+    "draftScore": 0.32,
+    "fantasyRank": 209
   },
   {
     "id": 224,
@@ -9633,7 +10748,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.2,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0.12,
+    "fantasyRank": 241
   },
   {
     "id": 225,
@@ -9667,7 +10787,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.2,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0.18,
+    "fantasyRank": 228
   },
   {
     "id": 226,
@@ -9691,7 +10816,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.2,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0.18,
+    "fantasyRank": 229
   },
   {
     "id": 227,
@@ -9715,7 +10845,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.2,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0.12,
+    "fantasyRank": 242
   },
   {
     "id": 228,
@@ -9739,7 +10874,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.2,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.6,
+    "draftScore": 0.32,
+    "fantasyRank": 210
   },
   {
     "id": 229,
@@ -9763,7 +10903,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.2,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0.18,
+    "fantasyRank": 230
   },
   {
     "id": 230,
@@ -9797,7 +10942,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.2,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0.12,
+    "fantasyRank": 243
   },
   {
     "id": 231,
@@ -9821,7 +10971,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.2,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.6,
+    "draftScore": 0.32,
+    "fantasyRank": 211
   },
   {
     "id": 232,
@@ -9860,7 +11015,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.2,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.2,
+    "draftScore": 0.24,
+    "fantasyRank": 223
   },
   {
     "id": 233,
@@ -9899,7 +11059,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.2,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0.28,
+    "fantasyRank": 218
   },
   {
     "id": 234,
@@ -9938,7 +11103,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.1,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0.14,
+    "fantasyRank": 233
   },
   {
     "id": 235,
@@ -9962,7 +11132,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.1,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0.09,
+    "fantasyRank": 247
   },
   {
     "id": 236,
@@ -10001,7 +11176,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.1,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0.14,
+    "fantasyRank": 234
   },
   {
     "id": 237,
@@ -10030,7 +11210,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.1,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0.09,
+    "fantasyRank": 248
   },
   {
     "id": 238,
@@ -10054,7 +11239,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.1,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.6,
+    "draftScore": 0.16,
+    "fantasyRank": 231
   },
   {
     "id": 239,
@@ -10083,7 +11273,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.1,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0.14,
+    "fantasyRank": 235
   },
   {
     "id": 240,
@@ -10112,7 +11307,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.1,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0.09,
+    "fantasyRank": 249
   },
   {
     "id": 241,
@@ -10146,7 +11346,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.1,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0.14,
+    "fantasyRank": 236
   },
   {
     "id": 242,
@@ -10175,7 +11380,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.1,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0.14,
+    "fantasyRank": 237
   },
   {
     "id": 243,
@@ -10209,7 +11419,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.1,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0.14,
+    "fantasyRank": 238
   },
   {
     "id": 244,
@@ -10238,7 +11453,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.1,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.2,
+    "draftScore": 0.12,
+    "fantasyRank": 244
   },
   {
     "id": 245,
@@ -10262,7 +11482,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.1,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0.14,
+    "fantasyRank": 239
   },
   {
     "id": 246,
@@ -10286,7 +11511,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.1,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0.09,
+    "fantasyRank": 250
   },
   {
     "id": 247,
@@ -10315,7 +11545,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.1,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0.06,
+    "fantasyRank": 251
   },
   {
     "id": 248,
@@ -10349,7 +11584,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.1,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.15,
+    "draftScore": 0.12,
+    "fantasyRank": 245
   },
   {
     "id": 249,
@@ -10378,7 +11618,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.1,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.6,
+    "draftScore": 0.16,
+    "fantasyRank": 232
   },
   {
     "id": 250,
@@ -10407,7 +11652,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.1,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0.14,
+    "fantasyRank": 240
   },
   {
     "id": 251,
@@ -10431,7 +11681,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0.1,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.2,
+    "draftScore": 0.12,
+    "fantasyRank": 246
   },
   {
     "id": 252,
@@ -10460,7 +11715,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0,
+    "fantasyRank": 252
   },
   {
     "id": 253,
@@ -10484,7 +11744,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.2,
+    "draftScore": 0,
+    "fantasyRank": 253
   },
   {
     "id": 254,
@@ -10518,7 +11783,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0,
+    "fantasyRank": 254
   },
   {
     "id": 255,
@@ -10542,7 +11812,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.15,
+    "draftScore": 0,
+    "fantasyRank": 255
   },
   {
     "id": 256,
@@ -10566,7 +11841,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.05,
+    "draftScore": 0,
+    "fantasyRank": 256
   },
   {
     "id": 257,
@@ -10590,7 +11870,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.05,
+    "draftScore": 0,
+    "fantasyRank": 257
   },
   {
     "id": 258,
@@ -10619,7 +11904,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0,
+    "fantasyRank": 258
   },
   {
     "id": 259,
@@ -10648,7 +11938,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.2,
+    "draftScore": 0,
+    "fantasyRank": 259
   },
   {
     "id": 260,
@@ -10677,7 +11972,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 260
   },
   {
     "id": 261,
@@ -10701,7 +12001,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0,
+    "fantasyRank": 261
   },
   {
     "id": 262,
@@ -10735,7 +12040,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0,
+    "fantasyRank": 262
   },
   {
     "id": 263,
@@ -10774,7 +12084,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 263
   },
   {
     "id": 264,
@@ -10798,7 +12113,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 264
   },
   {
     "id": 265,
@@ -10822,7 +12142,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": true,
+    "fantasyMultiplier": 0.4,
+    "draftScore": 0,
+    "fantasyRank": 265
   },
   {
     "id": 266,
@@ -10861,7 +12186,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.6,
+    "draftScore": 0,
+    "fantasyRank": 266
   },
   {
     "id": 267,
@@ -10895,7 +12225,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0,
+    "fantasyRank": 267
   },
   {
     "id": 268,
@@ -10919,7 +12254,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0,
+    "fantasyRank": 268
   },
   {
     "id": 269,
@@ -10948,7 +12288,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0,
+    "fantasyRank": 269
   },
   {
     "id": 270,
@@ -10977,7 +12322,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 270
   },
   {
     "id": 271,
@@ -11006,7 +12356,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.2,
+    "draftScore": 0,
+    "fantasyRank": 271
   },
   {
     "id": 272,
@@ -11035,7 +12390,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.2,
+    "draftScore": 0,
+    "fantasyRank": 272
   },
   {
     "id": 273,
@@ -11064,7 +12424,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0,
+    "fantasyRank": 273
   },
   {
     "id": 274,
@@ -11093,7 +12458,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0,
+    "fantasyRank": 274
   },
   {
     "id": 275,
@@ -11117,7 +12487,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.4,
+    "draftScore": 0,
+    "fantasyRank": 275
   },
   {
     "id": 276,
@@ -11141,7 +12516,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0,
+    "fantasyRank": 276
   },
   {
     "id": 277,
@@ -11165,7 +12545,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0,
+    "fantasyRank": 277
   },
   {
     "id": 278,
@@ -11199,7 +12584,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0,
+    "fantasyRank": 278
   },
   {
     "id": 279,
@@ -11223,7 +12613,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0,
+    "fantasyRank": 279
   },
   {
     "id": 280,
@@ -11247,7 +12642,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.2,
+    "draftScore": 0,
+    "fantasyRank": 280
   },
   {
     "id": 281,
@@ -11281,7 +12681,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.6,
+    "draftScore": 0,
+    "fantasyRank": 281
   },
   {
     "id": 282,
@@ -11315,7 +12720,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.15,
+    "draftScore": 0,
+    "fantasyRank": 282
   },
   {
     "id": 283,
@@ -11339,7 +12749,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0,
+    "fantasyRank": 283
   },
   {
     "id": 284,
@@ -11368,7 +12783,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.2,
+    "draftScore": 0,
+    "fantasyRank": 284
   },
   {
     "id": 285,
@@ -11392,7 +12812,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 285
   },
   {
     "id": 286,
@@ -11426,7 +12851,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 286
   },
   {
     "id": 287,
@@ -11460,7 +12890,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.2,
+    "draftScore": 0,
+    "fantasyRank": 287
   },
   {
     "id": 288,
@@ -11494,7 +12929,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0,
+    "fantasyRank": 288
   },
   {
     "id": 289,
@@ -11523,7 +12963,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0,
+    "fantasyRank": 289
   },
   {
     "id": 290,
@@ -11547,7 +12992,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0,
+    "fantasyRank": 290
   },
   {
     "id": 291,
@@ -11576,7 +13026,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0,
+    "fantasyRank": 291
   },
   {
     "id": 292,
@@ -11600,7 +13055,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0,
+    "fantasyRank": 292
   },
   {
     "id": 293,
@@ -11634,7 +13094,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 293
   },
   {
     "id": 294,
@@ -11668,7 +13133,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 294
   },
   {
     "id": 295,
@@ -11692,7 +13162,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.15,
+    "draftScore": 0,
+    "fantasyRank": 295
   },
   {
     "id": 296,
@@ -11726,7 +13201,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.05,
+    "draftScore": 0,
+    "fantasyRank": 296
   },
   {
     "id": 297,
@@ -11755,7 +13235,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.6,
+    "draftScore": 0,
+    "fantasyRank": 297
   },
   {
     "id": 298,
@@ -11784,7 +13269,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 298
   },
   {
     "id": 299,
@@ -11813,7 +13303,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 299
   },
   {
     "id": 300,
@@ -11852,7 +13347,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 300
   },
   {
     "id": 301,
@@ -11876,7 +13376,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0,
+    "fantasyRank": 301
   },
   {
     "id": 302,
@@ -11905,7 +13410,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0,
+    "fantasyRank": 302
   },
   {
     "id": 303,
@@ -11929,7 +13439,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 303
   },
   {
     "id": 304,
@@ -11953,7 +13468,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0,
+    "fantasyRank": 304
   },
   {
     "id": 305,
@@ -11987,7 +13507,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0,
+    "fantasyRank": 305
   },
   {
     "id": 306,
@@ -12011,7 +13536,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 306
   },
   {
     "id": 307,
@@ -12040,7 +13570,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.2,
+    "draftScore": 0,
+    "fantasyRank": 307
   },
   {
     "id": 308,
@@ -12064,7 +13599,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0,
+    "fantasyRank": 308
   },
   {
     "id": 309,
@@ -12088,7 +13628,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0,
+    "fantasyRank": 309
   },
   {
     "id": 310,
@@ -12117,7 +13662,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0,
+    "fantasyRank": 310
   },
   {
     "id": 311,
@@ -12141,7 +13691,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 311
   },
   {
     "id": 312,
@@ -12165,7 +13720,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0,
+    "fantasyRank": 312
   },
   {
     "id": 313,
@@ -12189,7 +13749,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 313
   },
   {
     "id": 314,
@@ -12218,7 +13783,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.6,
+    "draftScore": 0,
+    "fantasyRank": 314
   },
   {
     "id": 315,
@@ -12242,7 +13812,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 315
   },
   {
     "id": 316,
@@ -12266,7 +13841,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 316
   },
   {
     "id": 317,
@@ -12290,7 +13870,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.05,
+    "draftScore": 0,
+    "fantasyRank": 317
   },
   {
     "id": 318,
@@ -12314,7 +13899,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0,
+    "fantasyRank": 318
   },
   {
     "id": 319,
@@ -12338,7 +13928,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 319
   },
   {
     "id": 320,
@@ -12367,7 +13962,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0,
+    "fantasyRank": 320
   },
   {
     "id": 321,
@@ -12396,7 +13996,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0,
+    "fantasyRank": 321
   },
   {
     "id": 322,
@@ -12420,7 +14025,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0,
+    "fantasyRank": 322
   },
   {
     "id": 323,
@@ -12449,7 +14059,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.6,
+    "draftScore": 0,
+    "fantasyRank": 323
   },
   {
     "id": 324,
@@ -12473,7 +14088,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0,
+    "fantasyRank": 324
   },
   {
     "id": 325,
@@ -12502,7 +14122,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.05,
+    "draftScore": 0,
+    "fantasyRank": 325
   },
   {
     "id": 326,
@@ -12526,7 +14151,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 326
   },
   {
     "id": 327,
@@ -12550,7 +14180,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0,
+    "fantasyRank": 327
   },
   {
     "id": 328,
@@ -12574,7 +14209,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.2,
+    "draftScore": 0,
+    "fantasyRank": 328
   },
   {
     "id": 329,
@@ -12603,7 +14243,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0,
+    "fantasyRank": 329
   },
   {
     "id": 330,
@@ -12627,7 +14272,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0,
+    "fantasyRank": 330
   },
   {
     "id": 331,
@@ -12661,7 +14311,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.05,
+    "draftScore": 0,
+    "fantasyRank": 331
   },
   {
     "id": 332,
@@ -12695,7 +14350,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.05,
+    "draftScore": 0,
+    "fantasyRank": 332
   },
   {
     "id": 333,
@@ -12719,7 +14379,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 333
   },
   {
     "id": 334,
@@ -12743,7 +14408,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0,
+    "fantasyRank": 334
   },
   {
     "id": 335,
@@ -12777,7 +14447,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.05,
+    "draftScore": 0,
+    "fantasyRank": 335
   },
   {
     "id": 336,
@@ -12806,7 +14481,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.05,
+    "draftScore": 0,
+    "fantasyRank": 336
   },
   {
     "id": 337,
@@ -12830,7 +14510,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.05,
+    "draftScore": 0,
+    "fantasyRank": 337
   },
   {
     "id": 338,
@@ -12859,7 +14544,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.05,
+    "draftScore": 0,
+    "fantasyRank": 338
   },
   {
     "id": 339,
@@ -12883,7 +14573,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.6,
+    "draftScore": 0,
+    "fantasyRank": 339
   },
   {
     "id": 340,
@@ -12912,7 +14607,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0,
+    "fantasyRank": 340
   },
   {
     "id": 341,
@@ -12936,7 +14636,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0,
+    "fantasyRank": 341
   },
   {
     "id": 342,
@@ -12960,7 +14665,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 342
   },
   {
     "id": 343,
@@ -12984,7 +14694,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 343
   },
   {
     "id": 344,
@@ -13018,7 +14733,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 344
   },
   {
     "id": 345,
@@ -13042,7 +14762,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 345
   },
   {
     "id": 346,
@@ -13066,7 +14791,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.15,
+    "draftScore": 0,
+    "fantasyRank": 346
   },
   {
     "id": 347,
@@ -13090,7 +14820,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 347
   },
   {
     "id": 348,
@@ -13114,7 +14849,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.6,
+    "draftScore": 0,
+    "fantasyRank": 348
   },
   {
     "id": 349,
@@ -13148,7 +14888,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 349
   },
   {
     "id": 350,
@@ -13172,7 +14917,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.6,
+    "draftScore": 0,
+    "fantasyRank": 350
   },
   {
     "id": 351,
@@ -13196,7 +14946,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0,
+    "fantasyRank": 351
   },
   {
     "id": 352,
@@ -13220,7 +14975,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 352
   },
   {
     "id": 353,
@@ -13249,7 +15009,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.15,
+    "draftScore": 0,
+    "fantasyRank": 353
   },
   {
     "id": 354,
@@ -13273,7 +15038,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.05,
+    "draftScore": 0,
+    "fantasyRank": 354
   },
   {
     "id": 355,
@@ -13302,7 +15072,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.15,
+    "draftScore": 0,
+    "fantasyRank": 355
   },
   {
     "id": 356,
@@ -13331,7 +15106,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 356
   },
   {
     "id": 357,
@@ -13355,7 +15135,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0,
+    "fantasyRank": 357
   },
   {
     "id": 358,
@@ -13384,7 +15169,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 358
   },
   {
     "id": 359,
@@ -13413,7 +15203,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 359
   },
   {
     "id": 360,
@@ -13442,7 +15237,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.05,
+    "draftScore": 0,
+    "fantasyRank": 360
   },
   {
     "id": 361,
@@ -13466,7 +15266,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.05,
+    "draftScore": 0,
+    "fantasyRank": 361
   },
   {
     "id": 362,
@@ -13490,7 +15295,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 362
   },
   {
     "id": 363,
@@ -13514,7 +15324,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0,
+    "fantasyRank": 363
   },
   {
     "id": 364,
@@ -13548,7 +15363,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.05,
+    "draftScore": 0,
+    "fantasyRank": 364
   },
   {
     "id": 365,
@@ -13572,7 +15392,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 365
   },
   {
     "id": 366,
@@ -13596,7 +15421,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.05,
+    "draftScore": 0,
+    "fantasyRank": 366
   },
   {
     "id": 367,
@@ -13625,7 +15455,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.6,
+    "draftScore": 0,
+    "fantasyRank": 367
   },
   {
     "id": 368,
@@ -13654,7 +15489,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.2,
+    "draftScore": 0,
+    "fantasyRank": 368
   },
   {
     "id": 369,
@@ -13678,7 +15518,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.05,
+    "draftScore": 0,
+    "fantasyRank": 369
   },
   {
     "id": 370,
@@ -13707,7 +15552,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.2,
+    "draftScore": 0,
+    "fantasyRank": 370
   },
   {
     "id": 371,
@@ -13731,7 +15581,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0,
+    "fantasyRank": 371
   },
   {
     "id": 372,
@@ -13755,7 +15610,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 372
   },
   {
     "id": 373,
@@ -13779,7 +15639,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 373
   },
   {
     "id": 374,
@@ -13803,7 +15668,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.15,
+    "draftScore": 0,
+    "fantasyRank": 374
   },
   {
     "id": 375,
@@ -13832,7 +15702,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 375
   },
   {
     "id": 376,
@@ -13856,7 +15731,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0,
+    "fantasyRank": 376
   },
   {
     "id": 377,
@@ -13880,7 +15760,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.15,
+    "draftScore": 0,
+    "fantasyRank": 377
   },
   {
     "id": 378,
@@ -13904,7 +15789,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.15,
+    "draftScore": 0,
+    "fantasyRank": 378
   },
   {
     "id": 379,
@@ -13933,7 +15823,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.05,
+    "draftScore": 0,
+    "fantasyRank": 379
   },
   {
     "id": 380,
@@ -13957,7 +15852,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0,
+    "fantasyRank": 380
   },
   {
     "id": 381,
@@ -13981,7 +15881,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0,
+    "fantasyRank": 381
   },
   {
     "id": 382,
@@ -14010,7 +15915,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 382
   },
   {
     "id": 383,
@@ -14039,7 +15949,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.15,
+    "draftScore": 0,
+    "fantasyRank": 383
   },
   {
     "id": 384,
@@ -14063,7 +15978,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.2,
+    "draftScore": 0,
+    "fantasyRank": 384
   },
   {
     "id": 385,
@@ -14087,7 +16007,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0,
+    "fantasyRank": 385
   },
   {
     "id": 386,
@@ -14116,7 +16041,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0,
+    "fantasyRank": 386
   },
   {
     "id": 387,
@@ -14150,7 +16080,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0,
+    "fantasyRank": 387
   },
   {
     "id": 388,
@@ -14174,7 +16109,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.2,
+    "draftScore": 0,
+    "fantasyRank": 388
   },
   {
     "id": 389,
@@ -14203,7 +16143,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.15,
+    "draftScore": 0,
+    "fantasyRank": 389
   },
   {
     "id": 390,
@@ -14227,7 +16172,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.15,
+    "draftScore": 0,
+    "fantasyRank": 390
   },
   {
     "id": 391,
@@ -14251,7 +16201,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.6,
+    "draftScore": 0,
+    "fantasyRank": 391
   },
   {
     "id": 392,
@@ -14275,7 +16230,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.05,
+    "draftScore": 0,
+    "fantasyRank": 392
   },
   {
     "id": 393,
@@ -14304,7 +16264,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0,
+    "fantasyRank": 393
   },
   {
     "id": 394,
@@ -14328,7 +16293,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0,
+    "fantasyRank": 394
   },
   {
     "id": 395,
@@ -14357,7 +16327,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0,
+    "fantasyRank": 395
   },
   {
     "id": 396,
@@ -14381,7 +16356,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.15,
+    "draftScore": 0,
+    "fantasyRank": 396
   },
   {
     "id": 397,
@@ -14410,7 +16390,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0,
+    "fantasyRank": 397
   },
   {
     "id": 398,
@@ -14434,7 +16419,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0,
+    "fantasyRank": 398
   },
   {
     "id": 399,
@@ -14458,7 +16448,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 399
   },
   {
     "id": 400,
@@ -14482,7 +16477,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0,
+    "fantasyRank": 400
   },
   {
     "id": 401,
@@ -14506,7 +16506,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 401
   },
   {
     "id": 402,
@@ -14530,7 +16535,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.15,
+    "draftScore": 0,
+    "fantasyRank": 402
   },
   {
     "id": 403,
@@ -14554,7 +16564,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.2,
+    "draftScore": 0,
+    "fantasyRank": 403
   },
   {
     "id": 404,
@@ -14583,7 +16598,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 404
   },
   {
     "id": 405,
@@ -14607,7 +16627,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 405
   },
   {
     "id": 406,
@@ -14631,7 +16656,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 406
   },
   {
     "id": 407,
@@ -14655,7 +16685,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 407
   },
   {
     "id": 408,
@@ -14684,7 +16719,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.2,
+    "draftScore": 0,
+    "fantasyRank": 408
   },
   {
     "id": 409,
@@ -14708,7 +16748,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 409
   },
   {
     "id": 410,
@@ -14732,7 +16777,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0,
+    "fantasyRank": 410
   },
   {
     "id": 411,
@@ -14756,7 +16806,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0,
+    "fantasyRank": 411
   },
   {
     "id": 412,
@@ -14780,7 +16835,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0,
+    "fantasyRank": 412
   },
   {
     "id": 413,
@@ -14809,7 +16869,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 413
   },
   {
     "id": 414,
@@ -14833,7 +16898,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0,
+    "fantasyRank": 414
   },
   {
     "id": 415,
@@ -14862,7 +16932,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.4,
+    "draftScore": 0,
+    "fantasyRank": 415
   },
   {
     "id": 416,
@@ -14886,7 +16961,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.05,
+    "draftScore": 0,
+    "fantasyRank": 416
   },
   {
     "id": 417,
@@ -14910,7 +16990,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.15,
+    "draftScore": 0,
+    "fantasyRank": 417
   },
   {
     "id": 418,
@@ -14939,7 +17024,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.15,
+    "draftScore": 0,
+    "fantasyRank": 418
   },
   {
     "id": 419,
@@ -14973,7 +17063,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0,
+    "fantasyRank": 419
   },
   {
     "id": 420,
@@ -14997,7 +17092,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0,
+    "fantasyRank": 420
   },
   {
     "id": 421,
@@ -15026,7 +17126,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.6,
+    "draftScore": 0,
+    "fantasyRank": 421
   },
   {
     "id": 422,
@@ -15055,7 +17160,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.2,
+    "draftScore": 0,
+    "fantasyRank": 422
   },
   {
     "id": 423,
@@ -15084,7 +17194,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.15,
+    "draftScore": 0,
+    "fantasyRank": 423
   },
   {
     "id": 424,
@@ -15108,7 +17223,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0,
+    "fantasyRank": 424
   },
   {
     "id": 425,
@@ -15137,7 +17257,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0,
+    "fantasyRank": 425
   },
   {
     "id": 426,
@@ -15161,7 +17286,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 426
   },
   {
     "id": 427,
@@ -15185,7 +17315,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0,
+    "fantasyRank": 427
   },
   {
     "id": 428,
@@ -15209,7 +17344,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 428
   },
   {
     "id": 429,
@@ -15233,7 +17373,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.6,
+    "draftScore": 0,
+    "fantasyRank": 429
   },
   {
     "id": 430,
@@ -15257,7 +17402,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.15,
+    "draftScore": 0,
+    "fantasyRank": 430
   },
   {
     "id": 431,
@@ -15281,7 +17431,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0,
+    "fantasyRank": 431
   },
   {
     "id": 432,
@@ -15310,7 +17465,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 432
   },
   {
     "id": 433,
@@ -15339,7 +17499,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 433
   },
   {
     "id": 434,
@@ -15373,7 +17538,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.6,
+    "draftScore": 0,
+    "fantasyRank": 434
   },
   {
     "id": 435,
@@ -15397,7 +17567,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.05,
+    "draftScore": 0,
+    "fantasyRank": 435
   },
   {
     "id": 436,
@@ -15421,7 +17596,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.15,
+    "draftScore": 0,
+    "fantasyRank": 436
   },
   {
     "id": 437,
@@ -15450,7 +17630,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.6,
+    "draftScore": 0,
+    "fantasyRank": 437
   },
   {
     "id": 438,
@@ -15474,7 +17659,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 438
   },
   {
     "id": 439,
@@ -15503,7 +17693,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0,
+    "fantasyRank": 439
   },
   {
     "id": 440,
@@ -15527,7 +17722,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.05,
+    "draftScore": 0,
+    "fantasyRank": 440
   },
   {
     "id": 441,
@@ -15556,7 +17756,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.2,
+    "draftScore": 0,
+    "fantasyRank": 441
   },
   {
     "id": 442,
@@ -15580,7 +17785,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0,
+    "fantasyRank": 442
   },
   {
     "id": 443,
@@ -15604,7 +17814,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 443
   },
   {
     "id": 444,
@@ -15628,7 +17843,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 444
   },
   {
     "id": 445,
@@ -15652,7 +17872,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.05,
+    "draftScore": 0,
+    "fantasyRank": 445
   },
   {
     "id": 446,
@@ -15676,7 +17901,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.2,
+    "draftScore": 0,
+    "fantasyRank": 446
   },
   {
     "id": 447,
@@ -15705,7 +17935,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0,
+    "fantasyRank": 447
   },
   {
     "id": 448,
@@ -15729,7 +17964,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.2,
+    "draftScore": 0,
+    "fantasyRank": 448
   },
   {
     "id": 449,
@@ -15758,7 +17998,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 449
   },
   {
     "id": 450,
@@ -15782,7 +18027,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.6,
+    "draftScore": 0,
+    "fantasyRank": 450
   },
   {
     "id": 451,
@@ -15806,7 +18056,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0,
+    "fantasyRank": 451
   },
   {
     "id": 452,
@@ -15830,7 +18085,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 452
   },
   {
     "id": 453,
@@ -15854,7 +18114,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.05,
+    "draftScore": 0,
+    "fantasyRank": 453
   },
   {
     "id": 454,
@@ -15878,7 +18143,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0,
+    "fantasyRank": 454
   },
   {
     "id": 455,
@@ -15902,7 +18172,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.2,
+    "draftScore": 0,
+    "fantasyRank": 455
   },
   {
     "id": 456,
@@ -15926,7 +18201,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.05,
+    "draftScore": 0,
+    "fantasyRank": 456
   },
   {
     "id": 457,
@@ -15950,7 +18230,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 457
   },
   {
     "id": 458,
@@ -15979,7 +18264,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 458
   },
   {
     "id": 459,
@@ -16003,7 +18293,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0,
+    "fantasyRank": 459
   },
   {
     "id": 460,
@@ -16032,7 +18327,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.6,
+    "draftScore": 0,
+    "fantasyRank": 460
   },
   {
     "id": 461,
@@ -16056,7 +18356,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 461
   },
   {
     "id": 462,
@@ -16085,7 +18390,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.4,
+    "draftScore": 0,
+    "fantasyRank": 462
   },
   {
     "id": 463,
@@ -16109,7 +18419,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 463
   },
   {
     "id": 464,
@@ -16133,7 +18448,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0,
+    "fantasyRank": 464
   },
   {
     "id": 465,
@@ -16157,7 +18477,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0,
+    "fantasyRank": 465
   },
   {
     "id": 466,
@@ -16181,7 +18506,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.15,
+    "draftScore": 0,
+    "fantasyRank": 466
   },
   {
     "id": 467,
@@ -16205,7 +18535,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 467
   },
   {
     "id": 468,
@@ -16229,7 +18564,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.05,
+    "draftScore": 0,
+    "fantasyRank": 468
   },
   {
     "id": 469,
@@ -16258,7 +18598,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 469
   },
   {
     "id": 470,
@@ -16282,7 +18627,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.6,
+    "draftScore": 0,
+    "fantasyRank": 470
   },
   {
     "id": 471,
@@ -16306,7 +18656,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 471
   },
   {
     "id": 472,
@@ -16330,7 +18685,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 472
   },
   {
     "id": 473,
@@ -16354,7 +18714,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.05,
+    "draftScore": 0,
+    "fantasyRank": 473
   },
   {
     "id": 474,
@@ -16378,7 +18743,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.15,
+    "draftScore": 0,
+    "fantasyRank": 474
   },
   {
     "id": 475,
@@ -16407,7 +18777,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.4,
+    "draftScore": 0,
+    "fantasyRank": 475
   },
   {
     "id": 476,
@@ -16431,7 +18806,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.6,
+    "draftScore": 0,
+    "fantasyRank": 476
   },
   {
     "id": 477,
@@ -16455,7 +18835,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0,
+    "fantasyRank": 477
   },
   {
     "id": 478,
@@ -16479,7 +18864,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0,
+    "fantasyRank": 478
   },
   {
     "id": 479,
@@ -16503,7 +18893,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.05,
+    "draftScore": 0,
+    "fantasyRank": 479
   },
   {
     "id": 480,
@@ -16527,7 +18922,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 480
   },
   {
     "id": 481,
@@ -16556,7 +18956,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.6,
+    "draftScore": 0,
+    "fantasyRank": 481
   },
   {
     "id": 482,
@@ -16580,7 +18985,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.05,
+    "draftScore": 0,
+    "fantasyRank": 482
   },
   {
     "id": 483,
@@ -16604,7 +19014,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 483
   },
   {
     "id": 484,
@@ -16628,7 +19043,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.2,
+    "draftScore": 0,
+    "fantasyRank": 484
   },
   {
     "id": 485,
@@ -16652,7 +19072,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.05,
+    "draftScore": 0,
+    "fantasyRank": 485
   },
   {
     "id": 486,
@@ -16676,7 +19101,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.15,
+    "draftScore": 0,
+    "fantasyRank": 486
   },
   {
     "id": 487,
@@ -16700,7 +19130,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0,
+    "fantasyRank": 487
   },
   {
     "id": 488,
@@ -16724,7 +19159,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.05,
+    "draftScore": 0,
+    "fantasyRank": 488
   },
   {
     "id": 489,
@@ -16748,7 +19188,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.6,
+    "draftScore": 0,
+    "fantasyRank": 489
   },
   {
     "id": 490,
@@ -16772,7 +19217,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0,
+    "fantasyRank": 490
   },
   {
     "id": 491,
@@ -16796,7 +19246,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 491
   },
   {
     "id": 492,
@@ -16820,7 +19275,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0,
+    "fantasyRank": 492
   },
   {
     "id": 493,
@@ -16844,7 +19304,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.05,
+    "draftScore": 0,
+    "fantasyRank": 493
   },
   {
     "id": 494,
@@ -16868,7 +19333,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0,
+    "fantasyRank": 494
   },
   {
     "id": 495,
@@ -16892,7 +19362,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.15,
+    "draftScore": 0,
+    "fantasyRank": 495
   },
   {
     "id": 496,
@@ -16916,7 +19391,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.2,
+    "draftScore": 0,
+    "fantasyRank": 496
   },
   {
     "id": 497,
@@ -16940,7 +19420,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.05,
+    "draftScore": 0,
+    "fantasyRank": 497
   },
   {
     "id": 498,
@@ -16964,7 +19449,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0,
+    "fantasyRank": 498
   },
   {
     "id": 499,
@@ -16988,7 +19478,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 499
   },
   {
     "id": 500,
@@ -17012,7 +19507,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0,
+    "fantasyRank": 500
   },
   {
     "id": 501,
@@ -17036,7 +19536,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 501
   },
   {
     "id": 502,
@@ -17060,7 +19565,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.15,
+    "draftScore": 0,
+    "fantasyRank": 502
   },
   {
     "id": 503,
@@ -17084,7 +19594,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0,
+    "fantasyRank": 503
   },
   {
     "id": 504,
@@ -17108,7 +19623,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0,
+    "fantasyRank": 504
   },
   {
     "id": 505,
@@ -17132,7 +19652,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.05,
+    "draftScore": 0,
+    "fantasyRank": 505
   },
   {
     "id": 506,
@@ -17156,7 +19681,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0,
+    "fantasyRank": 506
   },
   {
     "id": 507,
@@ -17180,7 +19710,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0,
+    "fantasyRank": 507
   },
   {
     "id": 508,
@@ -17204,7 +19739,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 508
   },
   {
     "id": 509,
@@ -17228,7 +19768,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 509
   },
   {
     "id": 510,
@@ -17252,7 +19797,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 510
   },
   {
     "id": 511,
@@ -17276,7 +19826,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.15,
+    "draftScore": 0,
+    "fantasyRank": 511
   },
   {
     "id": 512,
@@ -17300,7 +19855,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0,
+    "fantasyRank": 512
   },
   {
     "id": 513,
@@ -17324,7 +19884,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 513
   },
   {
     "id": 514,
@@ -17348,7 +19913,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.6,
+    "draftScore": 0,
+    "fantasyRank": 514
   },
   {
     "id": 515,
@@ -17372,7 +19942,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 515
   },
   {
     "id": 516,
@@ -17396,7 +19971,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.4,
+    "draftScore": 0,
+    "fantasyRank": 516
   },
   {
     "id": 517,
@@ -17420,7 +20000,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.6,
+    "draftScore": 0,
+    "fantasyRank": 517
   },
   {
     "id": 518,
@@ -17444,7 +20029,12 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 1.6,
+    "draftScore": 0,
+    "fantasyRank": 518
   },
   {
     "id": 519,
@@ -17468,6 +20058,11 @@
     ],
     "remarks": "",
     "youtube": "",
-    "photoURL": ""
+    "photoURL": "",
+    "grade": 0,
+    "isGenerational": false,
+    "fantasyMultiplier": 0.9,
+    "draftScore": 0,
+    "fantasyRank": 519
   }
 ]
