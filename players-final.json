@@ -143,9 +143,9 @@
     "photoURL": "",
     "grade": 7.9,
     "isGenerational": true,
-    "fantasyMultiplier": 0.65,
-    "draftScore": 5.44,
-    "fantasyRank": 13
+    "fantasyMultiplier": 0.5,
+    "draftScore": 3.95,
+    "fantasyRank": 14
   },
   {
     "id": 3,
@@ -217,9 +217,9 @@
     "photoURL": "",
     "grade": 7.6,
     "isGenerational": true,
-    "fantasyMultiplier": 0.75,
-    "draftScore": 6,
-    "fantasyRank": 9
+    "fantasyMultiplier": 0.55,
+    "draftScore": 4.18,
+    "fantasyRank": 12
   },
   {
     "id": 4,
@@ -365,9 +365,9 @@
     "photoURL": "",
     "grade": 6.8,
     "isGenerational": true,
-    "fantasyMultiplier": 0.9,
-    "draftScore": 6.42,
-    "fantasyRank": 7
+    "fantasyMultiplier": 0.7,
+    "draftScore": 4.76,
+    "fantasyRank": 10
   },
   {
     "id": 6,
@@ -587,9 +587,9 @@
     "photoURL": "",
     "grade": 5.8,
     "isGenerational": true,
-    "fantasyMultiplier": 0.9,
-    "draftScore": 5.52,
-    "fantasyRank": 12
+    "fantasyMultiplier": 0.7,
+    "draftScore": 4.06,
+    "fantasyRank": 13
   },
   {
     "id": 9,
@@ -661,9 +661,9 @@
     "photoURL": "",
     "grade": 5.7,
     "isGenerational": true,
-    "fantasyMultiplier": 0.65,
-    "draftScore": 4.01,
-    "fantasyRank": 16
+    "fantasyMultiplier": 0.5,
+    "draftScore": 2.85,
+    "fantasyRank": 26
   },
   {
     "id": 10,
@@ -735,9 +735,9 @@
     "photoURL": "",
     "grade": 5.5,
     "isGenerational": true,
-    "fantasyMultiplier": 0.9,
-    "draftScore": 5.25,
-    "fantasyRank": 14
+    "fantasyMultiplier": 0.7,
+    "draftScore": 3.85,
+    "fantasyRank": 16
   },
   {
     "id": 11,
@@ -809,9 +809,9 @@
     "photoURL": "",
     "grade": 5.4,
     "isGenerational": true,
-    "fantasyMultiplier": 0.45,
-    "draftScore": 2.73,
-    "fantasyRank": 35
+    "fantasyMultiplier": 0.35,
+    "draftScore": 1.89,
+    "fantasyRank": 51
   },
   {
     "id": 12,
@@ -883,9 +883,9 @@
     "photoURL": "",
     "grade": 5.3,
     "isGenerational": true,
-    "fantasyMultiplier": 0.45,
-    "draftScore": 2.68,
-    "fantasyRank": 38
+    "fantasyMultiplier": 0.35,
+    "draftScore": 1.85,
+    "fantasyRank": 53
   },
   {
     "id": 13,
@@ -1031,9 +1031,9 @@
     "photoURL": "",
     "grade": 4.9,
     "isGenerational": true,
-    "fantasyMultiplier": 0.75,
-    "draftScore": 3.98,
-    "fantasyRank": 17
+    "fantasyMultiplier": 0.55,
+    "draftScore": 2.7,
+    "fantasyRank": 31
   },
   {
     "id": 15,
@@ -1107,7 +1107,7 @@
     "isGenerational": true,
     "fantasyMultiplier": 1.2,
     "draftScore": 5.76,
-    "fantasyRank": 10
+    "fantasyRank": 8
   },
   {
     "id": 16,
@@ -1174,9 +1174,9 @@
     "photoURL": "",
     "grade": 4.6,
     "isGenerational": true,
-    "fantasyMultiplier": 0.45,
-    "draftScore": 2.37,
-    "fantasyRank": 49
+    "fantasyMultiplier": 0.35,
+    "draftScore": 1.61,
+    "fantasyRank": 62
   },
   {
     "id": 17,
@@ -1319,7 +1319,7 @@
     "isGenerational": true,
     "fantasyMultiplier": 1.4,
     "draftScore": 6.02,
-    "fantasyRank": 8
+    "fantasyRank": 7
   },
   {
     "id": 19,
@@ -1381,9 +1381,9 @@
     "photoURL": "",
     "grade": 4.2,
     "isGenerational": true,
-    "fantasyMultiplier": 0.65,
-    "draftScore": 3.03,
-    "fantasyRank": 30
+    "fantasyMultiplier": 0.5,
+    "draftScore": 2.1,
+    "fantasyRank": 43
   },
   {
     "id": 20,
@@ -1455,9 +1455,9 @@
     "photoURL": "",
     "grade": 4.1,
     "isGenerational": true,
-    "fantasyMultiplier": 0.75,
-    "draftScore": 3.37,
-    "fantasyRank": 24
+    "fantasyMultiplier": 0.55,
+    "draftScore": 2.26,
+    "fantasyRank": 39
   },
   {
     "id": 21,
@@ -1521,7 +1521,7 @@
     "isGenerational": true,
     "fantasyMultiplier": 1.4,
     "draftScore": 5.74,
-    "fantasyRank": 11
+    "fantasyRank": 9
   },
   {
     "id": 22,
@@ -1588,9 +1588,9 @@
     "photoURL": "",
     "grade": 4,
     "isGenerational": false,
-    "fantasyMultiplier": 0.9,
-    "draftScore": 3.6,
-    "fantasyRank": 21
+    "fantasyMultiplier": 0.7,
+    "draftScore": 2.8,
+    "fantasyRank": 27
   },
   {
     "id": 23,
@@ -1652,9 +1652,9 @@
     "photoURL": "",
     "grade": 3.9,
     "isGenerational": false,
-    "fantasyMultiplier": 0.9,
-    "draftScore": 3.51,
-    "fantasyRank": 22
+    "fantasyMultiplier": 0.7,
+    "draftScore": 2.73,
+    "fantasyRank": 28
   },
   {
     "id": 24,
@@ -1706,9 +1706,9 @@
     "photoURL": "",
     "grade": 3.9,
     "isGenerational": true,
-    "fantasyMultiplier": 0.65,
-    "draftScore": 2.84,
-    "fantasyRank": 34
+    "fantasyMultiplier": 0.5,
+    "draftScore": 1.95,
+    "fantasyRank": 49
   },
   {
     "id": 25,
@@ -1765,9 +1765,9 @@
     "photoURL": "",
     "grade": 3.7,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
-    "draftScore": 2.41,
-    "fantasyRank": 44
+    "fantasyMultiplier": 0.5,
+    "draftScore": 1.85,
+    "fantasyRank": 54
   },
   {
     "id": 26,
@@ -1824,9 +1824,9 @@
     "photoURL": "",
     "grade": 3.7,
     "isGenerational": true,
-    "fantasyMultiplier": 0.45,
-    "draftScore": 1.97,
-    "fantasyRank": 58
+    "fantasyMultiplier": 0.35,
+    "draftScore": 1.3,
+    "fantasyRank": 83
   },
   {
     "id": 27,
@@ -1888,9 +1888,9 @@
     "photoURL": "",
     "grade": 3.6,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
-    "draftScore": 1.62,
-    "fantasyRank": 77
+    "fantasyMultiplier": 0.35,
+    "draftScore": 1.26,
+    "fantasyRank": 85
   },
   {
     "id": 28,
@@ -1954,7 +1954,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.4,
     "draftScore": 4.76,
-    "fantasyRank": 15
+    "fantasyRank": 11
   },
   {
     "id": 29,
@@ -2011,9 +2011,9 @@
     "photoURL": "",
     "grade": 3.3,
     "isGenerational": false,
-    "fantasyMultiplier": 0.9,
-    "draftScore": 2.97,
-    "fantasyRank": 31
+    "fantasyMultiplier": 0.7,
+    "draftScore": 2.31,
+    "fantasyRank": 37
   },
   {
     "id": 30,
@@ -2080,9 +2080,9 @@
     "photoURL": "",
     "grade": 3.3,
     "isGenerational": false,
-    "fantasyMultiplier": 0.9,
-    "draftScore": 2.97,
-    "fantasyRank": 32
+    "fantasyMultiplier": 0.7,
+    "draftScore": 2.31,
+    "fantasyRank": 38
   },
   {
     "id": 31,
@@ -2144,9 +2144,9 @@
     "photoURL": "",
     "grade": 3.3,
     "isGenerational": false,
-    "fantasyMultiplier": 0.75,
-    "draftScore": 2.47,
-    "fantasyRank": 42
+    "fantasyMultiplier": 0.55,
+    "draftScore": 1.82,
+    "fantasyRank": 55
   },
   {
     "id": 32,
@@ -2198,9 +2198,9 @@
     "photoURL": "",
     "grade": 3.2,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
-    "draftScore": 1.44,
-    "fantasyRank": 86
+    "fantasyMultiplier": 0.35,
+    "draftScore": 1.12,
+    "fantasyRank": 95
   },
   {
     "id": 33,
@@ -2252,9 +2252,9 @@
     "photoURL": "",
     "grade": 3,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
-    "draftScore": 1.35,
-    "fantasyRank": 90
+    "fantasyMultiplier": 0.35,
+    "draftScore": 1.05,
+    "fantasyRank": 101
   },
   {
     "id": 34,
@@ -2311,9 +2311,9 @@
     "photoURL": "",
     "grade": 2.9,
     "isGenerational": false,
-    "fantasyMultiplier": 0.9,
-    "draftScore": 2.61,
-    "fantasyRank": 40
+    "fantasyMultiplier": 0.7,
+    "draftScore": 2.03,
+    "fantasyRank": 44
   },
   {
     "id": 35,
@@ -2370,9 +2370,9 @@
     "photoURL": "",
     "grade": 2.9,
     "isGenerational": false,
-    "fantasyMultiplier": 0.9,
-    "draftScore": 2.61,
-    "fantasyRank": 41
+    "fantasyMultiplier": 0.7,
+    "draftScore": 2.03,
+    "fantasyRank": 45
   },
   {
     "id": 36,
@@ -2434,9 +2434,9 @@
     "photoURL": "",
     "grade": 2.9,
     "isGenerational": true,
-    "fantasyMultiplier": 0.65,
-    "draftScore": 2.19,
-    "fantasyRank": 54
+    "fantasyMultiplier": 0.5,
+    "draftScore": 1.45,
+    "fantasyRank": 68
   },
   {
     "id": 37,
@@ -2493,9 +2493,9 @@
     "photoURL": "",
     "grade": 2.9,
     "isGenerational": true,
-    "fantasyMultiplier": 0.65,
-    "draftScore": 2.19,
-    "fantasyRank": 55
+    "fantasyMultiplier": 0.5,
+    "draftScore": 1.45,
+    "fantasyRank": 69
   },
   {
     "id": 38,
@@ -2559,7 +2559,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.4,
     "draftScore": 3.92,
-    "fantasyRank": 18
+    "fantasyRank": 15
   },
   {
     "id": 39,
@@ -2616,9 +2616,9 @@
     "photoURL": "",
     "grade": 2.8,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
-    "draftScore": 1.82,
-    "fantasyRank": 64
+    "fantasyMultiplier": 0.5,
+    "draftScore": 1.4,
+    "fantasyRank": 73
   },
   {
     "id": 40,
@@ -2655,9 +2655,9 @@
     "photoURL": "",
     "grade": 2.8,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
-    "draftScore": 1.82,
-    "fantasyRank": 65
+    "fantasyMultiplier": 0.5,
+    "draftScore": 1.4,
+    "fantasyRank": 74
   },
   {
     "id": 41,
@@ -2714,9 +2714,9 @@
     "photoURL": "",
     "grade": 2.7,
     "isGenerational": false,
-    "fantasyMultiplier": 0.9,
-    "draftScore": 2.43,
-    "fantasyRank": 43
+    "fantasyMultiplier": 0.7,
+    "draftScore": 1.89,
+    "fantasyRank": 52
   },
   {
     "id": 42,
@@ -2770,7 +2770,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.4,
     "draftScore": 3.78,
-    "fantasyRank": 19
+    "fantasyRank": 17
   },
   {
     "id": 43,
@@ -2827,9 +2827,9 @@
     "photoURL": "",
     "grade": 2.6,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
-    "draftScore": 1.17,
-    "fantasyRank": 102
+    "fantasyMultiplier": 0.35,
+    "draftScore": 0.91,
+    "fantasyRank": 111
   },
   {
     "id": 44,
@@ -2886,9 +2886,9 @@
     "photoURL": "",
     "grade": 2.6,
     "isGenerational": false,
-    "fantasyMultiplier": 0.75,
-    "draftScore": 1.95,
-    "fantasyRank": 62
+    "fantasyMultiplier": 0.55,
+    "draftScore": 1.43,
+    "fantasyRank": 72
   },
   {
     "id": 45,
@@ -2940,9 +2940,9 @@
     "photoURL": "",
     "grade": 2.6,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
-    "draftScore": 1.69,
-    "fantasyRank": 72
+    "fantasyMultiplier": 0.5,
+    "draftScore": 1.3,
+    "fantasyRank": 84
   },
   {
     "id": 46,
@@ -3001,7 +3001,7 @@
     "isGenerational": true,
     "fantasyMultiplier": 1.2,
     "draftScore": 3.12,
-    "fantasyRank": 27
+    "fantasyRank": 22
   },
   {
     "id": 47,
@@ -3055,7 +3055,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.4,
     "draftScore": 3.64,
-    "fantasyRank": 20
+    "fantasyRank": 18
   },
   {
     "id": 48,
@@ -3117,9 +3117,9 @@
     "photoURL": "",
     "grade": 2.5,
     "isGenerational": false,
-    "fantasyMultiplier": 0.9,
-    "draftScore": 2.25,
-    "fantasyRank": 50
+    "fantasyMultiplier": 0.7,
+    "draftScore": 1.75,
+    "fantasyRank": 57
   },
   {
     "id": 49,
@@ -3171,9 +3171,9 @@
     "photoURL": "",
     "grade": 2.5,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
-    "draftScore": 1.63,
-    "fantasyRank": 75
+    "fantasyMultiplier": 0.5,
+    "draftScore": 1.25,
+    "fantasyRank": 90
   },
   {
     "id": 50,
@@ -3232,7 +3232,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.4,
     "draftScore": 3.5,
-    "fantasyRank": 23
+    "fantasyRank": 19
   },
   {
     "id": 51,
@@ -3284,9 +3284,9 @@
     "photoURL": "",
     "grade": 2.5,
     "isGenerational": false,
-    "fantasyMultiplier": 0.9,
-    "draftScore": 2.25,
-    "fantasyRank": 51
+    "fantasyMultiplier": 0.7,
+    "draftScore": 1.75,
+    "fantasyRank": 58
   },
   {
     "id": 52,
@@ -3328,9 +3328,9 @@
     "photoURL": "",
     "grade": 2.5,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
-    "draftScore": 1.63,
-    "fantasyRank": 76
+    "fantasyMultiplier": 0.5,
+    "draftScore": 1.25,
+    "fantasyRank": 91
   },
   {
     "id": 53,
@@ -3377,9 +3377,9 @@
     "photoURL": "",
     "grade": 2.4,
     "isGenerational": false,
-    "fantasyMultiplier": 0.75,
-    "draftScore": 1.8,
-    "fantasyRank": 66
+    "fantasyMultiplier": 0.55,
+    "draftScore": 1.32,
+    "fantasyRank": 79
   },
   {
     "id": 54,
@@ -3431,9 +3431,9 @@
     "photoURL": "",
     "grade": 2.4,
     "isGenerational": false,
-    "fantasyMultiplier": 0.75,
-    "draftScore": 1.8,
-    "fantasyRank": 67
+    "fantasyMultiplier": 0.55,
+    "draftScore": 1.32,
+    "fantasyRank": 80
   },
   {
     "id": 55,
@@ -3465,9 +3465,9 @@
     "photoURL": "",
     "grade": 2.4,
     "isGenerational": false,
-    "fantasyMultiplier": 0.9,
-    "draftScore": 2.16,
-    "fantasyRank": 56
+    "fantasyMultiplier": 0.7,
+    "draftScore": 1.68,
+    "fantasyRank": 59
   },
   {
     "id": 56,
@@ -3526,7 +3526,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.4,
     "draftScore": 3.36,
-    "fantasyRank": 25
+    "fantasyRank": 20
   },
   {
     "id": 57,
@@ -3580,7 +3580,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.4,
     "draftScore": 3.22,
-    "fantasyRank": 26
+    "fantasyRank": 21
   },
   {
     "id": 58,
@@ -3637,9 +3637,9 @@
     "photoURL": "",
     "grade": 2.3,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
-    "draftScore": 1.5,
-    "fantasyRank": 85
+    "fantasyMultiplier": 0.5,
+    "draftScore": 1.15,
+    "fantasyRank": 94
   },
   {
     "id": 59,
@@ -3703,7 +3703,7 @@
     "isGenerational": true,
     "fantasyMultiplier": 1.4,
     "draftScore": 3.08,
-    "fantasyRank": 28
+    "fantasyRank": 23
   },
   {
     "id": 60,
@@ -3757,7 +3757,7 @@
     "isGenerational": true,
     "fantasyMultiplier": 1.2,
     "draftScore": 2.64,
-    "fantasyRank": 39
+    "fantasyRank": 32
   },
   {
     "id": 61,
@@ -3811,7 +3811,7 @@
     "isGenerational": true,
     "fantasyMultiplier": 1.4,
     "draftScore": 3.08,
-    "fantasyRank": 29
+    "fantasyRank": 24
   },
   {
     "id": 62,
@@ -3858,9 +3858,9 @@
     "photoURL": "",
     "grade": 2.1,
     "isGenerational": false,
-    "fantasyMultiplier": 0.75,
-    "draftScore": 1.58,
-    "fantasyRank": 78
+    "fantasyMultiplier": 0.55,
+    "draftScore": 1.16,
+    "fantasyRank": 93
   },
   {
     "id": 63,
@@ -3912,9 +3912,9 @@
     "photoURL": "",
     "grade": 2.1,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
-    "draftScore": 0.95,
-    "fantasyRank": 125
+    "fantasyMultiplier": 0.35,
+    "draftScore": 0.74,
+    "fantasyRank": 127
   },
   {
     "id": 64,
@@ -3973,7 +3973,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.4,
     "draftScore": 2.94,
-    "fantasyRank": 33
+    "fantasyRank": 25
   },
   {
     "id": 65,
@@ -4015,9 +4015,9 @@
     "photoURL": "",
     "grade": 2,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
-    "draftScore": 0.9,
-    "fantasyRank": 126
+    "fantasyMultiplier": 0.35,
+    "draftScore": 0.7,
+    "fantasyRank": 131
   },
   {
     "id": 66,
@@ -4074,9 +4074,9 @@
     "photoURL": "",
     "grade": 2,
     "isGenerational": false,
-    "fantasyMultiplier": 0.9,
-    "draftScore": 1.8,
-    "fantasyRank": 68
+    "fantasyMultiplier": 0.7,
+    "draftScore": 1.4,
+    "fantasyRank": 75
   },
   {
     "id": 67,
@@ -4105,7 +4105,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.2,
     "draftScore": 2.4,
-    "fantasyRank": 45
+    "fantasyRank": 33
   },
   {
     "id": 68,
@@ -4157,9 +4157,9 @@
     "photoURL": "",
     "grade": 1.9,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
-    "draftScore": 0.86,
-    "fantasyRank": 127
+    "fantasyMultiplier": 0.35,
+    "draftScore": 0.66,
+    "fantasyRank": 132
   },
   {
     "id": 69,
@@ -4216,9 +4216,9 @@
     "photoURL": "",
     "grade": 1.9,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
-    "draftScore": 1.23,
-    "fantasyRank": 99
+    "fantasyMultiplier": 0.5,
+    "draftScore": 0.95,
+    "fantasyRank": 110
   },
   {
     "id": 70,
@@ -4275,9 +4275,9 @@
     "photoURL": "",
     "grade": 1.9,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
-    "draftScore": 0.86,
-    "fantasyRank": 128
+    "fantasyMultiplier": 0.35,
+    "draftScore": 0.66,
+    "fantasyRank": 133
   },
   {
     "id": 71,
@@ -4334,9 +4334,9 @@
     "photoURL": "",
     "grade": 1.9,
     "isGenerational": false,
-    "fantasyMultiplier": 0.9,
-    "draftScore": 1.71,
-    "fantasyRank": 70
+    "fantasyMultiplier": 0.7,
+    "draftScore": 1.33,
+    "fantasyRank": 77
   },
   {
     "id": 72,
@@ -4388,9 +4388,9 @@
     "photoURL": "",
     "grade": 1.9,
     "isGenerational": false,
-    "fantasyMultiplier": 0.9,
-    "draftScore": 1.71,
-    "fantasyRank": 71
+    "fantasyMultiplier": 0.7,
+    "draftScore": 1.33,
+    "fantasyRank": 78
   },
   {
     "id": 73,
@@ -4432,9 +4432,9 @@
     "photoURL": "",
     "grade": 1.8,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
-    "draftScore": 1.17,
-    "fantasyRank": 103
+    "fantasyMultiplier": 0.5,
+    "draftScore": 0.9,
+    "fantasyRank": 112
   },
   {
     "id": 74,
@@ -4486,9 +4486,9 @@
     "photoURL": "",
     "grade": 1.8,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
-    "draftScore": 1.17,
-    "fantasyRank": 104
+    "fantasyMultiplier": 0.5,
+    "draftScore": 0.9,
+    "fantasyRank": 113
   },
   {
     "id": 75,
@@ -4542,7 +4542,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.2,
     "draftScore": 2.16,
-    "fantasyRank": 57
+    "fantasyRank": 42
   },
   {
     "id": 76,
@@ -4569,9 +4569,9 @@
     "photoURL": "",
     "grade": 1.8,
     "isGenerational": false,
-    "fantasyMultiplier": 0.75,
-    "draftScore": 1.35,
-    "fantasyRank": 91
+    "fantasyMultiplier": 0.55,
+    "draftScore": 0.99,
+    "fantasyRank": 102
   },
   {
     "id": 77,
@@ -4620,7 +4620,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.4,
     "draftScore": 2.38,
-    "fantasyRank": 47
+    "fantasyRank": 35
   },
   {
     "id": 78,
@@ -4679,7 +4679,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.4,
     "draftScore": 2.38,
-    "fantasyRank": 48
+    "fantasyRank": 36
   },
   {
     "id": 79,
@@ -4736,9 +4736,9 @@
     "photoURL": "",
     "grade": 1.7,
     "isGenerational": false,
-    "fantasyMultiplier": 0.9,
-    "draftScore": 1.53,
-    "fantasyRank": 84
+    "fantasyMultiplier": 0.7,
+    "draftScore": 1.19,
+    "fantasyRank": 92
   },
   {
     "id": 80,
@@ -4797,7 +4797,7 @@
     "isGenerational": true,
     "fantasyMultiplier": 1.6,
     "draftScore": 2.72,
-    "fantasyRank": 36
+    "fantasyRank": 29
   },
   {
     "id": 81,
@@ -4851,7 +4851,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.6,
     "draftScore": 2.72,
-    "fantasyRank": 37
+    "fantasyRank": 30
   },
   {
     "id": 82,
@@ -4883,9 +4883,9 @@
     "photoURL": "",
     "grade": 1.7,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
-    "draftScore": 0.77,
-    "fantasyRank": 135
+    "fantasyMultiplier": 0.35,
+    "draftScore": 0.6,
+    "fantasyRank": 138
   },
   {
     "id": 83,
@@ -4937,9 +4937,9 @@
     "photoURL": "",
     "grade": 1.7,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
-    "draftScore": 1.11,
-    "fantasyRank": 110
+    "fantasyMultiplier": 0.5,
+    "draftScore": 0.85,
+    "fantasyRank": 116
   },
   {
     "id": 84,
@@ -4986,9 +4986,9 @@
     "photoURL": "",
     "grade": 1.6,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
-    "draftScore": 0.72,
-    "fantasyRank": 136
+    "fantasyMultiplier": 0.35,
+    "draftScore": 0.56,
+    "fantasyRank": 143
   },
   {
     "id": 85,
@@ -5045,9 +5045,9 @@
     "photoURL": "",
     "grade": 1.6,
     "isGenerational": false,
-    "fantasyMultiplier": 0.75,
-    "draftScore": 1.2,
-    "fantasyRank": 100
+    "fantasyMultiplier": 0.55,
+    "draftScore": 0.88,
+    "fantasyRank": 114
   },
   {
     "id": 86,
@@ -5089,9 +5089,9 @@
     "photoURL": "",
     "grade": 1.6,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
-    "draftScore": 1.04,
-    "fantasyRank": 116
+    "fantasyMultiplier": 0.5,
+    "draftScore": 0.8,
+    "fantasyRank": 121
   },
   {
     "id": 87,
@@ -5145,7 +5145,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.4,
     "draftScore": 2.24,
-    "fantasyRank": 52
+    "fantasyRank": 40
   },
   {
     "id": 88,
@@ -5172,9 +5172,9 @@
     "photoURL": "",
     "grade": 1.6,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
-    "draftScore": 1.04,
-    "fantasyRank": 117
+    "fantasyMultiplier": 0.5,
+    "draftScore": 0.8,
+    "fantasyRank": 122
   },
   {
     "id": 89,
@@ -5221,9 +5221,9 @@
     "photoURL": "",
     "grade": 1.6,
     "isGenerational": false,
-    "fantasyMultiplier": 0.75,
-    "draftScore": 1.2,
-    "fantasyRank": 101
+    "fantasyMultiplier": 0.55,
+    "draftScore": 0.88,
+    "fantasyRank": 115
   },
   {
     "id": 90,
@@ -5275,9 +5275,9 @@
     "photoURL": "",
     "grade": 1.6,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
-    "draftScore": 0.72,
-    "fantasyRank": 137
+    "fantasyMultiplier": 0.35,
+    "draftScore": 0.56,
+    "fantasyRank": 144
   },
   {
     "id": 91,
@@ -5326,7 +5326,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.4,
     "draftScore": 2.24,
-    "fantasyRank": 53
+    "fantasyRank": 41
   },
   {
     "id": 92,
@@ -5378,9 +5378,9 @@
     "photoURL": "",
     "grade": 1.5,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
-    "draftScore": 0.98,
-    "fantasyRank": 118
+    "fantasyMultiplier": 0.5,
+    "draftScore": 0.75,
+    "fantasyRank": 126
   },
   {
     "id": 93,
@@ -5434,7 +5434,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.6,
     "draftScore": 2.4,
-    "fantasyRank": 46
+    "fantasyRank": 34
   },
   {
     "id": 94,
@@ -5483,7 +5483,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.4,
     "draftScore": 1.96,
-    "fantasyRank": 59
+    "fantasyRank": 46
   },
   {
     "id": 95,
@@ -5510,9 +5510,9 @@
     "photoURL": "",
     "grade": 1.4,
     "isGenerational": false,
-    "fantasyMultiplier": 0.75,
-    "draftScore": 1.05,
-    "fantasyRank": 114
+    "fantasyMultiplier": 0.55,
+    "draftScore": 0.77,
+    "fantasyRank": 124
   },
   {
     "id": 96,
@@ -5564,9 +5564,9 @@
     "photoURL": "",
     "grade": 1.4,
     "isGenerational": false,
-    "fantasyMultiplier": 0.75,
-    "draftScore": 1.05,
-    "fantasyRank": 115
+    "fantasyMultiplier": 0.55,
+    "draftScore": 0.77,
+    "fantasyRank": 125
   },
   {
     "id": 97,
@@ -5620,7 +5620,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.4,
     "draftScore": 1.96,
-    "fantasyRank": 60
+    "fantasyRank": 47
   },
   {
     "id": 98,
@@ -5679,7 +5679,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.4,
     "draftScore": 1.96,
-    "fantasyRank": 61
+    "fantasyRank": 48
   },
   {
     "id": 99,
@@ -5721,9 +5721,9 @@
     "photoURL": "",
     "grade": 1.4,
     "isGenerational": false,
-    "fantasyMultiplier": 0.9,
-    "draftScore": 1.26,
-    "fantasyRank": 94
+    "fantasyMultiplier": 0.7,
+    "draftScore": 0.98,
+    "fantasyRank": 103
   },
   {
     "id": 100,
@@ -5777,7 +5777,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.2,
     "draftScore": 1.68,
-    "fantasyRank": 73
+    "fantasyRank": 60
   },
   {
     "id": 101,
@@ -5816,7 +5816,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.2,
     "draftScore": 1.56,
-    "fantasyRank": 79
+    "fantasyRank": 63
   },
   {
     "id": 102,
@@ -5865,7 +5865,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.2,
     "draftScore": 1.44,
-    "fantasyRank": 87
+    "fantasyRank": 70
   },
   {
     "id": 103,
@@ -5914,7 +5914,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.4,
     "draftScore": 1.68,
-    "fantasyRank": 74
+    "fantasyRank": 61
   },
   {
     "id": 104,
@@ -5941,9 +5941,9 @@
     "photoURL": "",
     "grade": 1.2,
     "isGenerational": false,
-    "fantasyMultiplier": 0.9,
-    "draftScore": 1.08,
-    "fantasyRank": 111
+    "fantasyMultiplier": 0.7,
+    "draftScore": 0.84,
+    "fantasyRank": 117
   },
   {
     "id": 105,
@@ -5997,7 +5997,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.6,
     "draftScore": 1.92,
-    "fantasyRank": 63
+    "fantasyRank": 50
   },
   {
     "id": 106,
@@ -6049,9 +6049,9 @@
     "photoURL": "",
     "grade": 1.2,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
-    "draftScore": 0.78,
-    "fantasyRank": 134
+    "fantasyMultiplier": 0.5,
+    "draftScore": 0.6,
+    "fantasyRank": 139
   },
   {
     "id": 107,
@@ -6090,7 +6090,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.2,
     "draftScore": 1.44,
-    "fantasyRank": 88
+    "fantasyRank": 71
   },
   {
     "id": 108,
@@ -6137,9 +6137,9 @@
     "photoURL": "",
     "grade": 1.2,
     "isGenerational": false,
-    "fantasyMultiplier": 0.9,
-    "draftScore": 1.08,
-    "fantasyRank": 112
+    "fantasyMultiplier": 0.7,
+    "draftScore": 0.84,
+    "fantasyRank": 118
   },
   {
     "id": 109,
@@ -6166,9 +6166,9 @@
     "photoURL": "",
     "grade": 1.2,
     "isGenerational": false,
-    "fantasyMultiplier": 0.9,
-    "draftScore": 1.08,
-    "fantasyRank": 113
+    "fantasyMultiplier": 0.7,
+    "draftScore": 0.84,
+    "fantasyRank": 119
   },
   {
     "id": 110,
@@ -6220,9 +6220,9 @@
     "photoURL": "",
     "grade": 1.2,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
-    "draftScore": 0.54,
-    "fantasyRank": 166
+    "fantasyMultiplier": 0.35,
+    "draftScore": 0.42,
+    "fantasyRank": 168
   },
   {
     "id": 111,
@@ -6256,7 +6256,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.4,
     "draftScore": 1.54,
-    "fantasyRank": 80
+    "fantasyRank": 64
   },
   {
     "id": 112,
@@ -6288,9 +6288,9 @@
     "photoURL": "",
     "grade": 1.1,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
-    "draftScore": 0.72,
-    "fantasyRank": 138
+    "fantasyMultiplier": 0.5,
+    "draftScore": 0.55,
+    "fantasyRank": 149
   },
   {
     "id": 113,
@@ -6339,7 +6339,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.2,
     "draftScore": 1.32,
-    "fantasyRank": 92
+    "fantasyRank": 81
   },
   {
     "id": 114,
@@ -6386,9 +6386,9 @@
     "photoURL": "",
     "grade": 1.1,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
-    "draftScore": 0.5,
-    "fantasyRank": 171
+    "fantasyMultiplier": 0.35,
+    "draftScore": 0.39,
+    "fantasyRank": 179
   },
   {
     "id": 115,
@@ -6442,7 +6442,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.4,
     "draftScore": 1.54,
-    "fantasyRank": 81
+    "fantasyRank": 65
   },
   {
     "id": 116,
@@ -6489,9 +6489,9 @@
     "photoURL": "",
     "grade": 1.1,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
-    "draftScore": 0.72,
-    "fantasyRank": 139
+    "fantasyMultiplier": 0.5,
+    "draftScore": 0.55,
+    "fantasyRank": 150
   },
   {
     "id": 117,
@@ -6533,9 +6533,9 @@
     "photoURL": "",
     "grade": 1.1,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
-    "draftScore": 0.5,
-    "fantasyRank": 172
+    "fantasyMultiplier": 0.35,
+    "draftScore": 0.39,
+    "fantasyRank": 180
   },
   {
     "id": 118,
@@ -6589,7 +6589,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.4,
     "draftScore": 1.54,
-    "fantasyRank": 82
+    "fantasyRank": 66
   },
   {
     "id": 119,
@@ -6636,9 +6636,9 @@
     "photoURL": "",
     "grade": 1.1,
     "isGenerational": false,
-    "fantasyMultiplier": 0.75,
-    "draftScore": 0.83,
-    "fantasyRank": 130
+    "fantasyMultiplier": 0.55,
+    "draftScore": 0.61,
+    "fantasyRank": 137
   },
   {
     "id": 120,
@@ -6692,7 +6692,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.6,
     "draftScore": 1.76,
-    "fantasyRank": 69
+    "fantasyRank": 56
   },
   {
     "id": 121,
@@ -6746,7 +6746,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.2,
     "draftScore": 1.32,
-    "fantasyRank": 93
+    "fantasyRank": 82
   },
   {
     "id": 122,
@@ -6798,9 +6798,9 @@
     "photoURL": "",
     "grade": 1.1,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
-    "draftScore": 0.72,
-    "fantasyRank": 140
+    "fantasyMultiplier": 0.5,
+    "draftScore": 0.55,
+    "fantasyRank": 151
   },
   {
     "id": 123,
@@ -6854,7 +6854,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.4,
     "draftScore": 1.54,
-    "fantasyRank": 83
+    "fantasyRank": 67
   },
   {
     "id": 124,
@@ -6881,9 +6881,9 @@
     "photoURL": "",
     "grade": 1,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
-    "draftScore": 0.65,
-    "fantasyRank": 148
+    "fantasyMultiplier": 0.5,
+    "draftScore": 0.5,
+    "fantasyRank": 152
   },
   {
     "id": 125,
@@ -6932,7 +6932,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.4,
     "draftScore": 1.4,
-    "fantasyRank": 89
+    "fantasyRank": 76
   },
   {
     "id": 126,
@@ -6974,9 +6974,9 @@
     "photoURL": "",
     "grade": 1,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
-    "draftScore": 0.65,
-    "fantasyRank": 149
+    "fantasyMultiplier": 0.5,
+    "draftScore": 0.5,
+    "fantasyRank": 153
   },
   {
     "id": 127,
@@ -7003,9 +7003,9 @@
     "photoURL": "",
     "grade": 1,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
-    "draftScore": 0.65,
-    "fantasyRank": 150
+    "fantasyMultiplier": 0.5,
+    "draftScore": 0.5,
+    "fantasyRank": 154
   },
   {
     "id": 128,
@@ -7037,9 +7037,9 @@
     "photoURL": "",
     "grade": 1,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
-    "draftScore": 0.45,
-    "fantasyRank": 175
+    "fantasyMultiplier": 0.35,
+    "draftScore": 0.35,
+    "fantasyRank": 183
   },
   {
     "id": 129,
@@ -7071,9 +7071,9 @@
     "photoURL": "",
     "grade": 1,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
-    "draftScore": 0.65,
-    "fantasyRank": 151
+    "fantasyMultiplier": 0.5,
+    "draftScore": 0.5,
+    "fantasyRank": 155
   },
   {
     "id": 130,
@@ -7117,7 +7117,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.4,
     "draftScore": 1.26,
-    "fantasyRank": 95
+    "fantasyRank": 86
   },
   {
     "id": 131,
@@ -7149,9 +7149,9 @@
     "photoURL": "",
     "grade": 0.9,
     "isGenerational": false,
-    "fantasyMultiplier": 0.9,
-    "draftScore": 0.81,
-    "fantasyRank": 131
+    "fantasyMultiplier": 0.7,
+    "draftScore": 0.63,
+    "fantasyRank": 135
   },
   {
     "id": 132,
@@ -7188,9 +7188,9 @@
     "photoURL": "",
     "grade": 0.9,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
-    "draftScore": 0.41,
-    "fantasyRank": 186
+    "fantasyMultiplier": 0.35,
+    "draftScore": 0.32,
+    "fantasyRank": 187
   },
   {
     "id": 133,
@@ -7232,9 +7232,9 @@
     "photoURL": "",
     "grade": 0.9,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
-    "draftScore": 0.59,
-    "fantasyRank": 160
+    "fantasyMultiplier": 0.5,
+    "draftScore": 0.45,
+    "fantasyRank": 161
   },
   {
     "id": 134,
@@ -7281,9 +7281,9 @@
     "photoURL": "",
     "grade": 0.9,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
-    "draftScore": 0.59,
-    "fantasyRank": 161
+    "fantasyMultiplier": 0.5,
+    "draftScore": 0.45,
+    "fantasyRank": 162
   },
   {
     "id": 135,
@@ -7325,9 +7325,9 @@
     "photoURL": "",
     "grade": 0.9,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
-    "draftScore": 0.59,
-    "fantasyRank": 162
+    "fantasyMultiplier": 0.5,
+    "draftScore": 0.45,
+    "fantasyRank": 163
   },
   {
     "id": 136,
@@ -7359,9 +7359,9 @@
     "photoURL": "",
     "grade": 0.9,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
-    "draftScore": 0.59,
-    "fantasyRank": 163
+    "fantasyMultiplier": 0.5,
+    "draftScore": 0.45,
+    "fantasyRank": 164
   },
   {
     "id": 137,
@@ -7410,7 +7410,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.4,
     "draftScore": 1.26,
-    "fantasyRank": 96
+    "fantasyRank": 87
   },
   {
     "id": 138,
@@ -7439,7 +7439,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.4,
     "draftScore": 1.26,
-    "fantasyRank": 97
+    "fantasyRank": 88
   },
   {
     "id": 139,
@@ -7471,9 +7471,9 @@
     "photoURL": "",
     "grade": 0.9,
     "isGenerational": false,
-    "fantasyMultiplier": 0.9,
-    "draftScore": 0.81,
-    "fantasyRank": 132
+    "fantasyMultiplier": 0.7,
+    "draftScore": 0.63,
+    "fantasyRank": 136
   },
   {
     "id": 140,
@@ -7510,9 +7510,9 @@
     "photoURL": "",
     "grade": 0.9,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
-    "draftScore": 0.41,
-    "fantasyRank": 187
+    "fantasyMultiplier": 0.35,
+    "draftScore": 0.32,
+    "fantasyRank": 188
   },
   {
     "id": 141,
@@ -7559,9 +7559,9 @@
     "photoURL": "",
     "grade": 0.9,
     "isGenerational": false,
-    "fantasyMultiplier": 0.75,
-    "draftScore": 0.68,
-    "fantasyRank": 147
+    "fantasyMultiplier": 0.55,
+    "draftScore": 0.5,
+    "fantasyRank": 156
   },
   {
     "id": 142,
@@ -7593,9 +7593,9 @@
     "photoURL": "",
     "grade": 0.9,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
-    "draftScore": 0.59,
-    "fantasyRank": 164
+    "fantasyMultiplier": 0.5,
+    "draftScore": 0.45,
+    "fantasyRank": 165
   },
   {
     "id": 143,
@@ -7639,7 +7639,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.4,
     "draftScore": 1.26,
-    "fantasyRank": 98
+    "fantasyRank": 89
   },
   {
     "id": 144,
@@ -7673,7 +7673,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.4,
     "draftScore": 1.12,
-    "fantasyRank": 105
+    "fantasyRank": 96
   },
   {
     "id": 145,
@@ -7725,9 +7725,9 @@
     "photoURL": "",
     "grade": 0.8,
     "isGenerational": false,
-    "fantasyMultiplier": 0.9,
-    "draftScore": 0.72,
-    "fantasyRank": 141
+    "fantasyMultiplier": 0.7,
+    "draftScore": 0.56,
+    "fantasyRank": 145
   },
   {
     "id": 146,
@@ -7769,9 +7769,9 @@
     "photoURL": "",
     "grade": 0.8,
     "isGenerational": false,
-    "fantasyMultiplier": 0.75,
-    "draftScore": 0.6,
-    "fantasyRank": 155
+    "fantasyMultiplier": 0.55,
+    "draftScore": 0.44,
+    "fantasyRank": 166
   },
   {
     "id": 147,
@@ -7808,9 +7808,9 @@
     "photoURL": "",
     "grade": 0.8,
     "isGenerational": false,
-    "fantasyMultiplier": 0.9,
-    "draftScore": 0.72,
-    "fantasyRank": 142
+    "fantasyMultiplier": 0.7,
+    "draftScore": 0.56,
+    "fantasyRank": 146
   },
   {
     "id": 148,
@@ -7864,7 +7864,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.4,
     "draftScore": 1.12,
-    "fantasyRank": 106
+    "fantasyRank": 97
   },
   {
     "id": 149,
@@ -7896,9 +7896,9 @@
     "photoURL": "",
     "grade": 0.8,
     "isGenerational": false,
-    "fantasyMultiplier": 0.9,
-    "draftScore": 0.72,
-    "fantasyRank": 143
+    "fantasyMultiplier": 0.7,
+    "draftScore": 0.56,
+    "fantasyRank": 147
   },
   {
     "id": 150,
@@ -7947,7 +7947,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.2,
     "draftScore": 0.96,
-    "fantasyRank": 120
+    "fantasyRank": 105
   },
   {
     "id": 151,
@@ -7994,9 +7994,9 @@
     "photoURL": "",
     "grade": 0.8,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
-    "draftScore": 0.52,
-    "fantasyRank": 168
+    "fantasyMultiplier": 0.5,
+    "draftScore": 0.4,
+    "fantasyRank": 177
   },
   {
     "id": 152,
@@ -8035,7 +8035,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.4,
     "draftScore": 1.12,
-    "fantasyRank": 107
+    "fantasyRank": 98
   },
   {
     "id": 153,
@@ -8079,7 +8079,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.2,
     "draftScore": 0.96,
-    "fantasyRank": 121
+    "fantasyRank": 106
   },
   {
     "id": 154,
@@ -8116,9 +8116,9 @@
     "photoURL": "",
     "grade": 0.8,
     "isGenerational": false,
-    "fantasyMultiplier": 0.75,
-    "draftScore": 0.6,
-    "fantasyRank": 156
+    "fantasyMultiplier": 0.55,
+    "draftScore": 0.44,
+    "fantasyRank": 167
   },
   {
     "id": 155,
@@ -8145,9 +8145,9 @@
     "photoURL": "",
     "grade": 0.8,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
-    "draftScore": 0.52,
-    "fantasyRank": 169
+    "fantasyMultiplier": 0.5,
+    "draftScore": 0.4,
+    "fantasyRank": 178
   },
   {
     "id": 156,
@@ -8191,7 +8191,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.2,
     "draftScore": 0.96,
-    "fantasyRank": 122
+    "fantasyRank": 107
   },
   {
     "id": 157,
@@ -8230,7 +8230,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.4,
     "draftScore": 1.12,
-    "fantasyRank": 108
+    "fantasyRank": 99
   },
   {
     "id": 158,
@@ -8269,7 +8269,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.4,
     "draftScore": 1.12,
-    "fantasyRank": 109
+    "fantasyRank": 100
   },
   {
     "id": 159,
@@ -8306,9 +8306,9 @@
     "photoURL": "",
     "grade": 0.7,
     "isGenerational": false,
-    "fantasyMultiplier": 0.9,
-    "draftScore": 0.63,
-    "fantasyRank": 153
+    "fantasyMultiplier": 0.7,
+    "draftScore": 0.49,
+    "fantasyRank": 157
   },
   {
     "id": 160,
@@ -8340,9 +8340,9 @@
     "photoURL": "",
     "grade": 0.7,
     "isGenerational": false,
-    "fantasyMultiplier": 0.75,
-    "draftScore": 0.52,
-    "fantasyRank": 170
+    "fantasyMultiplier": 0.55,
+    "draftScore": 0.39,
+    "fantasyRank": 181
   },
   {
     "id": 161,
@@ -8389,9 +8389,9 @@
     "photoURL": "",
     "grade": 0.7,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
-    "draftScore": 0.32,
-    "fantasyRank": 195
+    "fantasyMultiplier": 0.35,
+    "draftScore": 0.24,
+    "fantasyRank": 206
   },
   {
     "id": 162,
@@ -8433,9 +8433,9 @@
     "photoURL": "",
     "grade": 0.7,
     "isGenerational": false,
-    "fantasyMultiplier": 0.9,
-    "draftScore": 0.63,
-    "fantasyRank": 154
+    "fantasyMultiplier": 0.7,
+    "draftScore": 0.49,
+    "fantasyRank": 158
   },
   {
     "id": 163,
@@ -8464,7 +8464,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.4,
     "draftScore": 0.98,
-    "fantasyRank": 119
+    "fantasyRank": 104
   },
   {
     "id": 164,
@@ -8501,9 +8501,9 @@
     "photoURL": "",
     "grade": 0.7,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
-    "draftScore": 0.45,
-    "fantasyRank": 176
+    "fantasyMultiplier": 0.5,
+    "draftScore": 0.35,
+    "fantasyRank": 184
   },
   {
     "id": 165,
@@ -8545,9 +8545,9 @@
     "photoURL": "",
     "grade": 0.7,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
-    "draftScore": 0.32,
-    "fantasyRank": 196
+    "fantasyMultiplier": 0.35,
+    "draftScore": 0.24,
+    "fantasyRank": 207
   },
   {
     "id": 166,
@@ -8576,7 +8576,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.6,
     "draftScore": 0.96,
-    "fantasyRank": 123
+    "fantasyRank": 108
   },
   {
     "id": 167,
@@ -8613,9 +8613,9 @@
     "photoURL": "",
     "grade": 0.6,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
-    "draftScore": 0.39,
-    "fantasyRank": 188
+    "fantasyMultiplier": 0.5,
+    "draftScore": 0.3,
+    "fantasyRank": 196
   },
   {
     "id": 168,
@@ -8659,7 +8659,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.2,
     "draftScore": 0.72,
-    "fantasyRank": 144
+    "fantasyRank": 128
   },
   {
     "id": 169,
@@ -8703,7 +8703,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.6,
     "draftScore": 0.96,
-    "fantasyRank": 124
+    "fantasyRank": 109
   },
   {
     "id": 170,
@@ -8747,7 +8747,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.2,
     "draftScore": 0.72,
-    "fantasyRank": 145
+    "fantasyRank": 129
   },
   {
     "id": 171,
@@ -8784,9 +8784,9 @@
     "photoURL": "",
     "grade": 0.6,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
-    "draftScore": 0.39,
-    "fantasyRank": 189
+    "fantasyMultiplier": 0.5,
+    "draftScore": 0.3,
+    "fantasyRank": 197
   },
   {
     "id": 172,
@@ -8825,7 +8825,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.4,
     "draftScore": 0.84,
-    "fantasyRank": 129
+    "fantasyRank": 120
   },
   {
     "id": 173,
@@ -8862,9 +8862,9 @@
     "photoURL": "",
     "grade": 0.6,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
-    "draftScore": 0.39,
-    "fantasyRank": 190
+    "fantasyMultiplier": 0.5,
+    "draftScore": 0.3,
+    "fantasyRank": 198
   },
   {
     "id": 174,
@@ -8901,9 +8901,9 @@
     "photoURL": "",
     "grade": 0.6,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
-    "draftScore": 0.39,
-    "fantasyRank": 191
+    "fantasyMultiplier": 0.5,
+    "draftScore": 0.3,
+    "fantasyRank": 199
   },
   {
     "id": 175,
@@ -8940,9 +8940,9 @@
     "photoURL": "",
     "grade": 0.6,
     "isGenerational": false,
-    "fantasyMultiplier": 0.9,
-    "draftScore": 0.54,
-    "fantasyRank": 167
+    "fantasyMultiplier": 0.7,
+    "draftScore": 0.42,
+    "fantasyRank": 169
   },
   {
     "id": 176,
@@ -8981,7 +8981,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.2,
     "draftScore": 0.72,
-    "fantasyRank": 146
+    "fantasyRank": 130
   },
   {
     "id": 177,
@@ -9018,9 +9018,9 @@
     "photoURL": "",
     "grade": 0.6,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
-    "draftScore": 0.27,
-    "fantasyRank": 209
+    "fantasyMultiplier": 0.35,
+    "draftScore": 0.21,
+    "fantasyRank": 210
   },
   {
     "id": 178,
@@ -9057,8 +9057,8 @@
     "photoURL": "",
     "grade": 0.5,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
-    "draftScore": 0.23,
+    "fantasyMultiplier": 0.35,
+    "draftScore": 0.18,
     "fantasyRank": 216
   },
   {
@@ -9106,9 +9106,9 @@
     "photoURL": "",
     "grade": 0.5,
     "isGenerational": false,
-    "fantasyMultiplier": 0.9,
-    "draftScore": 0.45,
-    "fantasyRank": 177
+    "fantasyMultiplier": 0.7,
+    "draftScore": 0.35,
+    "fantasyRank": 185
   },
   {
     "id": 180,
@@ -9140,8 +9140,8 @@
     "photoURL": "",
     "grade": 0.5,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
-    "draftScore": 0.23,
+    "fantasyMultiplier": 0.35,
+    "draftScore": 0.18,
     "fantasyRank": 217
   },
   {
@@ -9191,7 +9191,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.2,
     "draftScore": 0.6,
-    "fantasyRank": 157
+    "fantasyRank": 140
   },
   {
     "id": 182,
@@ -9230,7 +9230,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.2,
     "draftScore": 0.6,
-    "fantasyRank": 158
+    "fantasyRank": 141
   },
   {
     "id": 183,
@@ -9277,9 +9277,9 @@
     "photoURL": "",
     "grade": 0.5,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
-    "draftScore": 0.33,
-    "fantasyRank": 194
+    "fantasyMultiplier": 0.5,
+    "draftScore": 0.25,
+    "fantasyRank": 205
   },
   {
     "id": 184,
@@ -9311,8 +9311,8 @@
     "photoURL": "",
     "grade": 0.5,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
-    "draftScore": 0.23,
+    "fantasyMultiplier": 0.35,
+    "draftScore": 0.18,
     "fantasyRank": 218
   },
   {
@@ -9347,7 +9347,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.2,
     "draftScore": 0.6,
-    "fantasyRank": 159
+    "fantasyRank": 142
   },
   {
     "id": 186,
@@ -9389,9 +9389,9 @@
     "photoURL": "",
     "grade": 0.5,
     "isGenerational": false,
-    "fantasyMultiplier": 0.9,
-    "draftScore": 0.45,
-    "fantasyRank": 178
+    "fantasyMultiplier": 0.7,
+    "draftScore": 0.35,
+    "fantasyRank": 186
   },
   {
     "id": 187,
@@ -9435,7 +9435,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.6,
     "draftScore": 0.8,
-    "fantasyRank": 133
+    "fantasyRank": 123
   },
   {
     "id": 188,
@@ -9472,9 +9472,9 @@
     "photoURL": "",
     "grade": 0.4,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
-    "draftScore": 0.26,
-    "fantasyRank": 212
+    "fantasyMultiplier": 0.5,
+    "draftScore": 0.2,
+    "fantasyRank": 213
   },
   {
     "id": 189,
@@ -9506,9 +9506,9 @@
     "photoURL": "",
     "grade": 0.4,
     "isGenerational": false,
-    "fantasyMultiplier": 0.9,
-    "draftScore": 0.36,
-    "fantasyRank": 192
+    "fantasyMultiplier": 0.7,
+    "draftScore": 0.28,
+    "fantasyRank": 200
   },
   {
     "id": 190,
@@ -9535,9 +9535,9 @@
     "photoURL": "",
     "grade": 0.4,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
-    "draftScore": 0.18,
-    "fantasyRank": 223
+    "fantasyMultiplier": 0.35,
+    "draftScore": 0.14,
+    "fantasyRank": 225
   },
   {
     "id": 191,
@@ -9574,9 +9574,9 @@
     "photoURL": "",
     "grade": 0.4,
     "isGenerational": false,
-    "fantasyMultiplier": 0.75,
-    "draftScore": 0.3,
-    "fantasyRank": 204
+    "fantasyMultiplier": 0.55,
+    "draftScore": 0.22,
+    "fantasyRank": 209
   },
   {
     "id": 192,
@@ -9608,9 +9608,9 @@
     "photoURL": "",
     "grade": 0.4,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
-    "draftScore": 0.26,
-    "fantasyRank": 213
+    "fantasyMultiplier": 0.5,
+    "draftScore": 0.2,
+    "fantasyRank": 214
   },
   {
     "id": 193,
@@ -9649,7 +9649,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.4,
     "draftScore": 0.56,
-    "fantasyRank": 165
+    "fantasyRank": 148
   },
   {
     "id": 194,
@@ -9693,7 +9693,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.6,
     "draftScore": 0.64,
-    "fantasyRank": 152
+    "fantasyRank": 134
   },
   {
     "id": 195,
@@ -9730,9 +9730,9 @@
     "photoURL": "",
     "grade": 0.4,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
-    "draftScore": 0.26,
-    "fantasyRank": 214
+    "fantasyMultiplier": 0.5,
+    "draftScore": 0.2,
+    "fantasyRank": 215
   },
   {
     "id": 196,
@@ -9771,7 +9771,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.4,
     "draftScore": 0.42,
-    "fantasyRank": 179
+    "fantasyRank": 170
   },
   {
     "id": 197,
@@ -9813,9 +9813,9 @@
     "photoURL": "",
     "grade": 0.3,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
-    "draftScore": 0.2,
-    "fantasyRank": 220
+    "fantasyMultiplier": 0.5,
+    "draftScore": 0.15,
+    "fantasyRank": 222
   },
   {
     "id": 198,
@@ -9849,7 +9849,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.4,
     "draftScore": 0.42,
-    "fantasyRank": 180
+    "fantasyRank": 171
   },
   {
     "id": 199,
@@ -9876,8 +9876,8 @@
     "photoURL": "",
     "grade": 0.3,
     "isGenerational": false,
-    "fantasyMultiplier": 0.75,
-    "draftScore": 0.22,
+    "fantasyMultiplier": 0.55,
+    "draftScore": 0.17,
     "fantasyRank": 219
   },
   {
@@ -9910,9 +9910,9 @@
     "photoURL": "",
     "grade": 0.3,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
-    "draftScore": 0.2,
-    "fantasyRank": 221
+    "fantasyMultiplier": 0.5,
+    "draftScore": 0.15,
+    "fantasyRank": 223
   },
   {
     "id": 201,
@@ -9951,7 +9951,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.2,
     "draftScore": 0.36,
-    "fantasyRank": 193
+    "fantasyRank": 182
   },
   {
     "id": 202,
@@ -9983,9 +9983,9 @@
     "photoURL": "",
     "grade": 0.3,
     "isGenerational": false,
-    "fantasyMultiplier": 0.9,
-    "draftScore": 0.27,
-    "fantasyRank": 210
+    "fantasyMultiplier": 0.7,
+    "draftScore": 0.21,
+    "fantasyRank": 211
   },
   {
     "id": 203,
@@ -10017,9 +10017,9 @@
     "photoURL": "",
     "grade": 0.3,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
-    "draftScore": 0.2,
-    "fantasyRank": 222
+    "fantasyMultiplier": 0.5,
+    "draftScore": 0.15,
+    "fantasyRank": 224
   },
   {
     "id": 204,
@@ -10056,9 +10056,9 @@
     "photoURL": "",
     "grade": 0.3,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
-    "draftScore": 0.14,
-    "fantasyRank": 226
+    "fantasyMultiplier": 0.35,
+    "draftScore": 0.11,
+    "fantasyRank": 236
   },
   {
     "id": 205,
@@ -10097,7 +10097,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.4,
     "draftScore": 0.42,
-    "fantasyRank": 181
+    "fantasyRank": 172
   },
   {
     "id": 206,
@@ -10129,9 +10129,9 @@
     "photoURL": "",
     "grade": 0.3,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
-    "draftScore": 0.14,
-    "fantasyRank": 227
+    "fantasyMultiplier": 0.35,
+    "draftScore": 0.11,
+    "fantasyRank": 237
   },
   {
     "id": 207,
@@ -10170,7 +10170,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.4,
     "draftScore": 0.42,
-    "fantasyRank": 182
+    "fantasyRank": 173
   },
   {
     "id": 208,
@@ -10197,9 +10197,9 @@
     "photoURL": "",
     "grade": 0.3,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
-    "draftScore": 0.14,
-    "fantasyRank": 228
+    "fantasyMultiplier": 0.35,
+    "draftScore": 0.11,
+    "fantasyRank": 238
   },
   {
     "id": 209,
@@ -10228,7 +10228,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.4,
     "draftScore": 0.42,
-    "fantasyRank": 183
+    "fantasyRank": 174
   },
   {
     "id": 210,
@@ -10260,9 +10260,9 @@
     "photoURL": "",
     "grade": 0.3,
     "isGenerational": false,
-    "fantasyMultiplier": 0.9,
-    "draftScore": 0.27,
-    "fantasyRank": 211
+    "fantasyMultiplier": 0.7,
+    "draftScore": 0.21,
+    "fantasyRank": 212
   },
   {
     "id": 211,
@@ -10306,7 +10306,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.6,
     "draftScore": 0.48,
-    "fantasyRank": 173
+    "fantasyRank": 159
   },
   {
     "id": 212,
@@ -10345,7 +10345,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.4,
     "draftScore": 0.42,
-    "fantasyRank": 184
+    "fantasyRank": 175
   },
   {
     "id": 213,
@@ -10384,7 +10384,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.6,
     "draftScore": 0.48,
-    "fantasyRank": 174
+    "fantasyRank": 160
   },
   {
     "id": 214,
@@ -10428,7 +10428,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.4,
     "draftScore": 0.42,
-    "fantasyRank": 185
+    "fantasyRank": 176
   },
   {
     "id": 215,
@@ -10455,9 +10455,9 @@
     "photoURL": "",
     "grade": 0.3,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
-    "draftScore": 0.14,
-    "fantasyRank": 229
+    "fantasyMultiplier": 0.35,
+    "draftScore": 0.11,
+    "fantasyRank": 239
   },
   {
     "id": 216,
@@ -10486,7 +10486,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.6,
     "draftScore": 0.32,
-    "fantasyRank": 197
+    "fantasyRank": 189
   },
   {
     "id": 217,
@@ -10515,7 +10515,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.6,
     "draftScore": 0.32,
-    "fantasyRank": 198
+    "fantasyRank": 190
   },
   {
     "id": 218,
@@ -10554,7 +10554,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.4,
     "draftScore": 0.28,
-    "fantasyRank": 205
+    "fantasyRank": 201
   },
   {
     "id": 219,
@@ -10593,7 +10593,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.6,
     "draftScore": 0.32,
-    "fantasyRank": 199
+    "fantasyRank": 191
   },
   {
     "id": 220,
@@ -10622,7 +10622,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.6,
     "draftScore": 0.32,
-    "fantasyRank": 200
+    "fantasyRank": 192
   },
   {
     "id": 221,
@@ -10656,7 +10656,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.4,
     "draftScore": 0.28,
-    "fantasyRank": 206
+    "fantasyRank": 202
   },
   {
     "id": 222,
@@ -10690,7 +10690,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.4,
     "draftScore": 0.28,
-    "fantasyRank": 207
+    "fantasyRank": 203
   },
   {
     "id": 223,
@@ -10719,7 +10719,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.6,
     "draftScore": 0.32,
-    "fantasyRank": 201
+    "fantasyRank": 193
   },
   {
     "id": 224,
@@ -10751,8 +10751,8 @@
     "photoURL": "",
     "grade": 0.2,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
-    "draftScore": 0.09,
+    "fantasyMultiplier": 0.35,
+    "draftScore": 0.07,
     "fantasyRank": 243
   },
   {
@@ -10790,9 +10790,9 @@
     "photoURL": "",
     "grade": 0.2,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
-    "draftScore": 0.13,
-    "fantasyRank": 238
+    "fantasyMultiplier": 0.5,
+    "draftScore": 0.1,
+    "fantasyRank": 240
   },
   {
     "id": 226,
@@ -10819,9 +10819,9 @@
     "photoURL": "",
     "grade": 0.2,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
-    "draftScore": 0.13,
-    "fantasyRank": 239
+    "fantasyMultiplier": 0.5,
+    "draftScore": 0.1,
+    "fantasyRank": 241
   },
   {
     "id": 227,
@@ -10848,8 +10848,8 @@
     "photoURL": "",
     "grade": 0.2,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
-    "draftScore": 0.09,
+    "fantasyMultiplier": 0.35,
+    "draftScore": 0.07,
     "fantasyRank": 244
   },
   {
@@ -10879,7 +10879,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.6,
     "draftScore": 0.32,
-    "fantasyRank": 202
+    "fantasyRank": 194
   },
   {
     "id": 229,
@@ -10906,9 +10906,9 @@
     "photoURL": "",
     "grade": 0.2,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
-    "draftScore": 0.13,
-    "fantasyRank": 240
+    "fantasyMultiplier": 0.5,
+    "draftScore": 0.1,
+    "fantasyRank": 242
   },
   {
     "id": 230,
@@ -10945,8 +10945,8 @@
     "photoURL": "",
     "grade": 0.2,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
-    "draftScore": 0.09,
+    "fantasyMultiplier": 0.35,
+    "draftScore": 0.07,
     "fantasyRank": 245
   },
   {
@@ -10976,7 +10976,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.6,
     "draftScore": 0.32,
-    "fantasyRank": 203
+    "fantasyRank": 195
   },
   {
     "id": 232,
@@ -11020,7 +11020,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.2,
     "draftScore": 0.24,
-    "fantasyRank": 215
+    "fantasyRank": 208
   },
   {
     "id": 233,
@@ -11064,7 +11064,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.4,
     "draftScore": 0.28,
-    "fantasyRank": 208
+    "fantasyRank": 204
   },
   {
     "id": 234,
@@ -11108,7 +11108,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.4,
     "draftScore": 0.14,
-    "fantasyRank": 230
+    "fantasyRank": 226
   },
   {
     "id": 235,
@@ -11135,8 +11135,8 @@
     "photoURL": "",
     "grade": 0.1,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
-    "draftScore": 0.07,
+    "fantasyMultiplier": 0.5,
+    "draftScore": 0.05,
     "fantasyRank": 247
   },
   {
@@ -11181,7 +11181,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.4,
     "draftScore": 0.14,
-    "fantasyRank": 231
+    "fantasyRank": 227
   },
   {
     "id": 237,
@@ -11213,8 +11213,8 @@
     "photoURL": "",
     "grade": 0.1,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
-    "draftScore": 0.07,
+    "fantasyMultiplier": 0.5,
+    "draftScore": 0.05,
     "fantasyRank": 248
   },
   {
@@ -11244,7 +11244,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.6,
     "draftScore": 0.16,
-    "fantasyRank": 224
+    "fantasyRank": 220
   },
   {
     "id": 239,
@@ -11278,7 +11278,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.4,
     "draftScore": 0.14,
-    "fantasyRank": 232
+    "fantasyRank": 228
   },
   {
     "id": 240,
@@ -11310,8 +11310,8 @@
     "photoURL": "",
     "grade": 0.1,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
-    "draftScore": 0.07,
+    "fantasyMultiplier": 0.5,
+    "draftScore": 0.05,
     "fantasyRank": 249
   },
   {
@@ -11351,7 +11351,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.4,
     "draftScore": 0.14,
-    "fantasyRank": 233
+    "fantasyRank": 229
   },
   {
     "id": 242,
@@ -11385,7 +11385,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.4,
     "draftScore": 0.14,
-    "fantasyRank": 234
+    "fantasyRank": 230
   },
   {
     "id": 243,
@@ -11424,7 +11424,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.4,
     "draftScore": 0.14,
-    "fantasyRank": 235
+    "fantasyRank": 231
   },
   {
     "id": 244,
@@ -11458,7 +11458,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.2,
     "draftScore": 0.12,
-    "fantasyRank": 241
+    "fantasyRank": 234
   },
   {
     "id": 245,
@@ -11487,7 +11487,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.4,
     "draftScore": 0.14,
-    "fantasyRank": 236
+    "fantasyRank": 232
   },
   {
     "id": 246,
@@ -11514,8 +11514,8 @@
     "photoURL": "",
     "grade": 0.1,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
-    "draftScore": 0.07,
+    "fantasyMultiplier": 0.5,
+    "draftScore": 0.05,
     "fantasyRank": 250
   },
   {
@@ -11548,8 +11548,8 @@
     "photoURL": "",
     "grade": 0.1,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
-    "draftScore": 0.05,
+    "fantasyMultiplier": 0.35,
+    "draftScore": 0.03,
     "fantasyRank": 251
   },
   {
@@ -11587,8 +11587,8 @@
     "photoURL": "",
     "grade": 0.1,
     "isGenerational": false,
-    "fantasyMultiplier": 0.9,
-    "draftScore": 0.09,
+    "fantasyMultiplier": 0.7,
+    "draftScore": 0.07,
     "fantasyRank": 246
   },
   {
@@ -11623,7 +11623,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.6,
     "draftScore": 0.16,
-    "fantasyRank": 225
+    "fantasyRank": 221
   },
   {
     "id": 250,
@@ -11657,7 +11657,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.4,
     "draftScore": 0.14,
-    "fantasyRank": 237
+    "fantasyRank": 233
   },
   {
     "id": 251,
@@ -11686,7 +11686,7 @@
     "isGenerational": false,
     "fantasyMultiplier": 1.2,
     "draftScore": 0.12,
-    "fantasyRank": 242
+    "fantasyRank": 235
   },
   {
     "id": 252,
@@ -11718,7 +11718,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
+    "fantasyMultiplier": 0.5,
     "draftScore": 0,
     "fantasyRank": 252
   },
@@ -11786,7 +11786,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
+    "fantasyMultiplier": 0.5,
     "draftScore": 0,
     "fantasyRank": 254
   },
@@ -11815,7 +11815,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.9,
+    "fantasyMultiplier": 0.7,
     "draftScore": 0,
     "fantasyRank": 255
   },
@@ -11844,7 +11844,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.75,
+    "fantasyMultiplier": 0.55,
     "draftScore": 0,
     "fantasyRank": 256
   },
@@ -11873,7 +11873,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.75,
+    "fantasyMultiplier": 0.55,
     "draftScore": 0,
     "fantasyRank": 257
   },
@@ -11907,7 +11907,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
+    "fantasyMultiplier": 0.5,
     "draftScore": 0,
     "fantasyRank": 258
   },
@@ -12004,7 +12004,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
+    "fantasyMultiplier": 0.5,
     "draftScore": 0,
     "fantasyRank": 261
   },
@@ -12043,7 +12043,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
+    "fantasyMultiplier": 0.35,
     "draftScore": 0,
     "fantasyRank": 262
   },
@@ -12228,7 +12228,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
+    "fantasyMultiplier": 0.35,
     "draftScore": 0,
     "fantasyRank": 267
   },
@@ -12257,7 +12257,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
+    "fantasyMultiplier": 0.35,
     "draftScore": 0,
     "fantasyRank": 268
   },
@@ -12291,7 +12291,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
+    "fantasyMultiplier": 0.35,
     "draftScore": 0,
     "fantasyRank": 269
   },
@@ -12427,7 +12427,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
+    "fantasyMultiplier": 0.5,
     "draftScore": 0,
     "fantasyRank": 273
   },
@@ -12461,7 +12461,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
+    "fantasyMultiplier": 0.35,
     "draftScore": 0,
     "fantasyRank": 274
   },
@@ -12519,7 +12519,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
+    "fantasyMultiplier": 0.35,
     "draftScore": 0,
     "fantasyRank": 276
   },
@@ -12548,7 +12548,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
+    "fantasyMultiplier": 0.35,
     "draftScore": 0,
     "fantasyRank": 277
   },
@@ -12587,7 +12587,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
+    "fantasyMultiplier": 0.35,
     "draftScore": 0,
     "fantasyRank": 278
   },
@@ -12616,7 +12616,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
+    "fantasyMultiplier": 0.5,
     "draftScore": 0,
     "fantasyRank": 279
   },
@@ -12723,7 +12723,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.9,
+    "fantasyMultiplier": 0.7,
     "draftScore": 0,
     "fantasyRank": 282
   },
@@ -12752,7 +12752,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
+    "fantasyMultiplier": 0.35,
     "draftScore": 0,
     "fantasyRank": 283
   },
@@ -12932,7 +12932,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
+    "fantasyMultiplier": 0.5,
     "draftScore": 0,
     "fantasyRank": 288
   },
@@ -12966,7 +12966,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
+    "fantasyMultiplier": 0.5,
     "draftScore": 0,
     "fantasyRank": 289
   },
@@ -12995,7 +12995,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
+    "fantasyMultiplier": 0.35,
     "draftScore": 0,
     "fantasyRank": 290
   },
@@ -13029,7 +13029,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
+    "fantasyMultiplier": 0.5,
     "draftScore": 0,
     "fantasyRank": 291
   },
@@ -13058,7 +13058,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
+    "fantasyMultiplier": 0.5,
     "draftScore": 0,
     "fantasyRank": 292
   },
@@ -13165,7 +13165,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.9,
+    "fantasyMultiplier": 0.7,
     "draftScore": 0,
     "fantasyRank": 295
   },
@@ -13204,7 +13204,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.75,
+    "fantasyMultiplier": 0.55,
     "draftScore": 0,
     "fantasyRank": 296
   },
@@ -13379,7 +13379,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
+    "fantasyMultiplier": 0.35,
     "draftScore": 0,
     "fantasyRank": 301
   },
@@ -13413,7 +13413,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
+    "fantasyMultiplier": 0.5,
     "draftScore": 0,
     "fantasyRank": 302
   },
@@ -13471,7 +13471,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
+    "fantasyMultiplier": 0.5,
     "draftScore": 0,
     "fantasyRank": 304
   },
@@ -13510,7 +13510,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
+    "fantasyMultiplier": 0.35,
     "draftScore": 0,
     "fantasyRank": 305
   },
@@ -13602,7 +13602,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
+    "fantasyMultiplier": 0.5,
     "draftScore": 0,
     "fantasyRank": 308
   },
@@ -13631,7 +13631,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
+    "fantasyMultiplier": 0.5,
     "draftScore": 0,
     "fantasyRank": 309
   },
@@ -13665,7 +13665,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
+    "fantasyMultiplier": 0.35,
     "draftScore": 0,
     "fantasyRank": 310
   },
@@ -13723,7 +13723,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
+    "fantasyMultiplier": 0.35,
     "draftScore": 0,
     "fantasyRank": 312
   },
@@ -13873,7 +13873,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.75,
+    "fantasyMultiplier": 0.55,
     "draftScore": 0,
     "fantasyRank": 317
   },
@@ -13902,7 +13902,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
+    "fantasyMultiplier": 0.35,
     "draftScore": 0,
     "fantasyRank": 318
   },
@@ -13965,7 +13965,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
+    "fantasyMultiplier": 0.5,
     "draftScore": 0,
     "fantasyRank": 320
   },
@@ -13999,7 +13999,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
+    "fantasyMultiplier": 0.5,
     "draftScore": 0,
     "fantasyRank": 321
   },
@@ -14028,7 +14028,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
+    "fantasyMultiplier": 0.35,
     "draftScore": 0,
     "fantasyRank": 322
   },
@@ -14091,7 +14091,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
+    "fantasyMultiplier": 0.5,
     "draftScore": 0,
     "fantasyRank": 324
   },
@@ -14125,7 +14125,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.75,
+    "fantasyMultiplier": 0.55,
     "draftScore": 0,
     "fantasyRank": 325
   },
@@ -14183,7 +14183,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
+    "fantasyMultiplier": 0.5,
     "draftScore": 0,
     "fantasyRank": 327
   },
@@ -14246,7 +14246,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
+    "fantasyMultiplier": 0.5,
     "draftScore": 0,
     "fantasyRank": 329
   },
@@ -14275,7 +14275,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
+    "fantasyMultiplier": 0.5,
     "draftScore": 0,
     "fantasyRank": 330
   },
@@ -14314,7 +14314,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.75,
+    "fantasyMultiplier": 0.55,
     "draftScore": 0,
     "fantasyRank": 331
   },
@@ -14353,7 +14353,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.75,
+    "fantasyMultiplier": 0.55,
     "draftScore": 0,
     "fantasyRank": 332
   },
@@ -14411,7 +14411,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
+    "fantasyMultiplier": 0.35,
     "draftScore": 0,
     "fantasyRank": 334
   },
@@ -14450,7 +14450,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.75,
+    "fantasyMultiplier": 0.55,
     "draftScore": 0,
     "fantasyRank": 335
   },
@@ -14484,7 +14484,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.75,
+    "fantasyMultiplier": 0.55,
     "draftScore": 0,
     "fantasyRank": 336
   },
@@ -14513,7 +14513,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.75,
+    "fantasyMultiplier": 0.55,
     "draftScore": 0,
     "fantasyRank": 337
   },
@@ -14547,7 +14547,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.75,
+    "fantasyMultiplier": 0.55,
     "draftScore": 0,
     "fantasyRank": 338
   },
@@ -14610,7 +14610,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
+    "fantasyMultiplier": 0.5,
     "draftScore": 0,
     "fantasyRank": 340
   },
@@ -14639,7 +14639,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
+    "fantasyMultiplier": 0.35,
     "draftScore": 0,
     "fantasyRank": 341
   },
@@ -14794,7 +14794,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.9,
+    "fantasyMultiplier": 0.7,
     "draftScore": 0,
     "fantasyRank": 346
   },
@@ -14949,7 +14949,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
+    "fantasyMultiplier": 0.5,
     "draftScore": 0,
     "fantasyRank": 351
   },
@@ -15012,7 +15012,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.9,
+    "fantasyMultiplier": 0.7,
     "draftScore": 0,
     "fantasyRank": 353
   },
@@ -15041,7 +15041,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.75,
+    "fantasyMultiplier": 0.55,
     "draftScore": 0,
     "fantasyRank": 354
   },
@@ -15075,7 +15075,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.9,
+    "fantasyMultiplier": 0.7,
     "draftScore": 0,
     "fantasyRank": 355
   },
@@ -15138,7 +15138,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
+    "fantasyMultiplier": 0.35,
     "draftScore": 0,
     "fantasyRank": 357
   },
@@ -15240,7 +15240,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.75,
+    "fantasyMultiplier": 0.55,
     "draftScore": 0,
     "fantasyRank": 360
   },
@@ -15269,7 +15269,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.75,
+    "fantasyMultiplier": 0.55,
     "draftScore": 0,
     "fantasyRank": 361
   },
@@ -15327,7 +15327,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
+    "fantasyMultiplier": 0.5,
     "draftScore": 0,
     "fantasyRank": 363
   },
@@ -15366,7 +15366,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.75,
+    "fantasyMultiplier": 0.55,
     "draftScore": 0,
     "fantasyRank": 364
   },
@@ -15424,7 +15424,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.75,
+    "fantasyMultiplier": 0.55,
     "draftScore": 0,
     "fantasyRank": 366
   },
@@ -15521,7 +15521,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.75,
+    "fantasyMultiplier": 0.55,
     "draftScore": 0,
     "fantasyRank": 369
   },
@@ -15584,7 +15584,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
+    "fantasyMultiplier": 0.35,
     "draftScore": 0,
     "fantasyRank": 371
   },
@@ -15671,7 +15671,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.9,
+    "fantasyMultiplier": 0.7,
     "draftScore": 0,
     "fantasyRank": 374
   },
@@ -15734,7 +15734,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
+    "fantasyMultiplier": 0.35,
     "draftScore": 0,
     "fantasyRank": 376
   },
@@ -15763,7 +15763,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.9,
+    "fantasyMultiplier": 0.7,
     "draftScore": 0,
     "fantasyRank": 377
   },
@@ -15792,7 +15792,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.9,
+    "fantasyMultiplier": 0.7,
     "draftScore": 0,
     "fantasyRank": 378
   },
@@ -15826,7 +15826,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.75,
+    "fantasyMultiplier": 0.55,
     "draftScore": 0,
     "fantasyRank": 379
   },
@@ -15855,7 +15855,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
+    "fantasyMultiplier": 0.5,
     "draftScore": 0,
     "fantasyRank": 380
   },
@@ -15884,7 +15884,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
+    "fantasyMultiplier": 0.5,
     "draftScore": 0,
     "fantasyRank": 381
   },
@@ -15952,7 +15952,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.9,
+    "fantasyMultiplier": 0.7,
     "draftScore": 0,
     "fantasyRank": 383
   },
@@ -16010,7 +16010,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
+    "fantasyMultiplier": 0.5,
     "draftScore": 0,
     "fantasyRank": 385
   },
@@ -16044,7 +16044,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
+    "fantasyMultiplier": 0.35,
     "draftScore": 0,
     "fantasyRank": 386
   },
@@ -16083,7 +16083,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
+    "fantasyMultiplier": 0.5,
     "draftScore": 0,
     "fantasyRank": 387
   },
@@ -16146,7 +16146,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.9,
+    "fantasyMultiplier": 0.7,
     "draftScore": 0,
     "fantasyRank": 389
   },
@@ -16175,7 +16175,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.9,
+    "fantasyMultiplier": 0.7,
     "draftScore": 0,
     "fantasyRank": 390
   },
@@ -16233,7 +16233,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.75,
+    "fantasyMultiplier": 0.55,
     "draftScore": 0,
     "fantasyRank": 392
   },
@@ -16267,7 +16267,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
+    "fantasyMultiplier": 0.5,
     "draftScore": 0,
     "fantasyRank": 393
   },
@@ -16296,7 +16296,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
+    "fantasyMultiplier": 0.35,
     "draftScore": 0,
     "fantasyRank": 394
   },
@@ -16330,7 +16330,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
+    "fantasyMultiplier": 0.35,
     "draftScore": 0,
     "fantasyRank": 395
   },
@@ -16359,7 +16359,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.9,
+    "fantasyMultiplier": 0.7,
     "draftScore": 0,
     "fantasyRank": 396
   },
@@ -16393,7 +16393,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
+    "fantasyMultiplier": 0.5,
     "draftScore": 0,
     "fantasyRank": 397
   },
@@ -16422,7 +16422,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
+    "fantasyMultiplier": 0.5,
     "draftScore": 0,
     "fantasyRank": 398
   },
@@ -16480,7 +16480,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
+    "fantasyMultiplier": 0.35,
     "draftScore": 0,
     "fantasyRank": 400
   },
@@ -16538,7 +16538,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.9,
+    "fantasyMultiplier": 0.7,
     "draftScore": 0,
     "fantasyRank": 402
   },
@@ -16780,7 +16780,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
+    "fantasyMultiplier": 0.35,
     "draftScore": 0,
     "fantasyRank": 410
   },
@@ -16809,7 +16809,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
+    "fantasyMultiplier": 0.35,
     "draftScore": 0,
     "fantasyRank": 411
   },
@@ -16838,7 +16838,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
+    "fantasyMultiplier": 0.5,
     "draftScore": 0,
     "fantasyRank": 412
   },
@@ -16901,7 +16901,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
+    "fantasyMultiplier": 0.5,
     "draftScore": 0,
     "fantasyRank": 414
   },
@@ -16964,7 +16964,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.75,
+    "fantasyMultiplier": 0.55,
     "draftScore": 0,
     "fantasyRank": 416
   },
@@ -16993,7 +16993,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.9,
+    "fantasyMultiplier": 0.7,
     "draftScore": 0,
     "fantasyRank": 417
   },
@@ -17027,7 +17027,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.9,
+    "fantasyMultiplier": 0.7,
     "draftScore": 0,
     "fantasyRank": 418
   },
@@ -17066,7 +17066,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
+    "fantasyMultiplier": 0.35,
     "draftScore": 0,
     "fantasyRank": 419
   },
@@ -17095,7 +17095,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
+    "fantasyMultiplier": 0.35,
     "draftScore": 0,
     "fantasyRank": 420
   },
@@ -17197,7 +17197,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.9,
+    "fantasyMultiplier": 0.7,
     "draftScore": 0,
     "fantasyRank": 423
   },
@@ -17226,7 +17226,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
+    "fantasyMultiplier": 0.5,
     "draftScore": 0,
     "fantasyRank": 424
   },
@@ -17260,7 +17260,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
+    "fantasyMultiplier": 0.5,
     "draftScore": 0,
     "fantasyRank": 425
   },
@@ -17318,7 +17318,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
+    "fantasyMultiplier": 0.5,
     "draftScore": 0,
     "fantasyRank": 427
   },
@@ -17405,7 +17405,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.9,
+    "fantasyMultiplier": 0.7,
     "draftScore": 0,
     "fantasyRank": 430
   },
@@ -17434,7 +17434,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
+    "fantasyMultiplier": 0.35,
     "draftScore": 0,
     "fantasyRank": 431
   },
@@ -17570,7 +17570,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.75,
+    "fantasyMultiplier": 0.55,
     "draftScore": 0,
     "fantasyRank": 435
   },
@@ -17599,7 +17599,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.9,
+    "fantasyMultiplier": 0.7,
     "draftScore": 0,
     "fantasyRank": 436
   },
@@ -17696,7 +17696,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
+    "fantasyMultiplier": 0.35,
     "draftScore": 0,
     "fantasyRank": 439
   },
@@ -17725,7 +17725,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.75,
+    "fantasyMultiplier": 0.55,
     "draftScore": 0,
     "fantasyRank": 440
   },
@@ -17788,7 +17788,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
+    "fantasyMultiplier": 0.5,
     "draftScore": 0,
     "fantasyRank": 442
   },
@@ -17875,7 +17875,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.75,
+    "fantasyMultiplier": 0.55,
     "draftScore": 0,
     "fantasyRank": 445
   },
@@ -17938,7 +17938,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
+    "fantasyMultiplier": 0.35,
     "draftScore": 0,
     "fantasyRank": 447
   },
@@ -18059,7 +18059,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
+    "fantasyMultiplier": 0.5,
     "draftScore": 0,
     "fantasyRank": 451
   },
@@ -18117,7 +18117,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.75,
+    "fantasyMultiplier": 0.55,
     "draftScore": 0,
     "fantasyRank": 453
   },
@@ -18146,7 +18146,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
+    "fantasyMultiplier": 0.5,
     "draftScore": 0,
     "fantasyRank": 454
   },
@@ -18204,7 +18204,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.75,
+    "fantasyMultiplier": 0.55,
     "draftScore": 0,
     "fantasyRank": 456
   },
@@ -18296,7 +18296,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
+    "fantasyMultiplier": 0.5,
     "draftScore": 0,
     "fantasyRank": 459
   },
@@ -18451,7 +18451,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
+    "fantasyMultiplier": 0.5,
     "draftScore": 0,
     "fantasyRank": 464
   },
@@ -18480,7 +18480,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
+    "fantasyMultiplier": 0.35,
     "draftScore": 0,
     "fantasyRank": 465
   },
@@ -18509,7 +18509,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.9,
+    "fantasyMultiplier": 0.7,
     "draftScore": 0,
     "fantasyRank": 466
   },
@@ -18567,7 +18567,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.75,
+    "fantasyMultiplier": 0.55,
     "draftScore": 0,
     "fantasyRank": 468
   },
@@ -18717,7 +18717,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.75,
+    "fantasyMultiplier": 0.55,
     "draftScore": 0,
     "fantasyRank": 473
   },
@@ -18746,7 +18746,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.9,
+    "fantasyMultiplier": 0.7,
     "draftScore": 0,
     "fantasyRank": 474
   },
@@ -18838,7 +18838,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
+    "fantasyMultiplier": 0.5,
     "draftScore": 0,
     "fantasyRank": 477
   },
@@ -18867,7 +18867,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
+    "fantasyMultiplier": 0.35,
     "draftScore": 0,
     "fantasyRank": 478
   },
@@ -18896,7 +18896,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.75,
+    "fantasyMultiplier": 0.55,
     "draftScore": 0,
     "fantasyRank": 479
   },
@@ -18988,7 +18988,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.75,
+    "fantasyMultiplier": 0.55,
     "draftScore": 0,
     "fantasyRank": 482
   },
@@ -19075,7 +19075,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.75,
+    "fantasyMultiplier": 0.55,
     "draftScore": 0,
     "fantasyRank": 485
   },
@@ -19104,7 +19104,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.9,
+    "fantasyMultiplier": 0.7,
     "draftScore": 0,
     "fantasyRank": 486
   },
@@ -19133,7 +19133,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
+    "fantasyMultiplier": 0.35,
     "draftScore": 0,
     "fantasyRank": 487
   },
@@ -19162,7 +19162,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.75,
+    "fantasyMultiplier": 0.55,
     "draftScore": 0,
     "fantasyRank": 488
   },
@@ -19220,7 +19220,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
+    "fantasyMultiplier": 0.35,
     "draftScore": 0,
     "fantasyRank": 490
   },
@@ -19278,7 +19278,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
+    "fantasyMultiplier": 0.5,
     "draftScore": 0,
     "fantasyRank": 492
   },
@@ -19307,7 +19307,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.75,
+    "fantasyMultiplier": 0.55,
     "draftScore": 0,
     "fantasyRank": 493
   },
@@ -19336,7 +19336,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
+    "fantasyMultiplier": 0.5,
     "draftScore": 0,
     "fantasyRank": 494
   },
@@ -19365,7 +19365,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.9,
+    "fantasyMultiplier": 0.7,
     "draftScore": 0,
     "fantasyRank": 495
   },
@@ -19423,7 +19423,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.75,
+    "fantasyMultiplier": 0.55,
     "draftScore": 0,
     "fantasyRank": 497
   },
@@ -19452,7 +19452,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
+    "fantasyMultiplier": 0.5,
     "draftScore": 0,
     "fantasyRank": 498
   },
@@ -19510,7 +19510,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
+    "fantasyMultiplier": 0.5,
     "draftScore": 0,
     "fantasyRank": 500
   },
@@ -19568,7 +19568,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.9,
+    "fantasyMultiplier": 0.7,
     "draftScore": 0,
     "fantasyRank": 502
   },
@@ -19597,7 +19597,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
+    "fantasyMultiplier": 0.35,
     "draftScore": 0,
     "fantasyRank": 503
   },
@@ -19626,7 +19626,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
+    "fantasyMultiplier": 0.5,
     "draftScore": 0,
     "fantasyRank": 504
   },
@@ -19655,7 +19655,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.75,
+    "fantasyMultiplier": 0.55,
     "draftScore": 0,
     "fantasyRank": 505
   },
@@ -19684,7 +19684,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
+    "fantasyMultiplier": 0.5,
     "draftScore": 0,
     "fantasyRank": 506
   },
@@ -19713,7 +19713,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
+    "fantasyMultiplier": 0.35,
     "draftScore": 0,
     "fantasyRank": 507
   },
@@ -19829,7 +19829,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.9,
+    "fantasyMultiplier": 0.7,
     "draftScore": 0,
     "fantasyRank": 511
   },
@@ -19858,7 +19858,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
+    "fantasyMultiplier": 0.35,
     "draftScore": 0,
     "fantasyRank": 512
   },
@@ -20003,7 +20003,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.45,
+    "fantasyMultiplier": 0.35,
     "draftScore": 0,
     "fantasyRank": 517
   },
@@ -20061,7 +20061,7 @@
     "photoURL": "",
     "grade": 0,
     "isGenerational": false,
-    "fantasyMultiplier": 0.65,
+    "fantasyMultiplier": 0.5,
     "draftScore": 0,
     "fantasyRank": 519
   }

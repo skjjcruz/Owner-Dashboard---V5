@@ -85,11 +85,11 @@ const POS_MULTIPLIERS = {
   RB: 1.4,   // Running backs
   WR: 1.4,   // Wide receivers
   TE: 1.2,   // Tight ends
-  EDGE: 0.90,// Edge rushers - premium defensive
-  LB: 0.75,  // Linebackers
-  DL: 0.65,  // Defensive line
-  S: 0.65,   // Safeties
-  CB: 0.45,  // Cornerbacks
+  EDGE: 0.70,// Edge rushers - premium defensive
+  LB: 0.55,  // Linebackers
+  DL: 0.50,  // Defensive line
+  S: 0.50,   // Safeties
+  CB: 0.35,  // Cornerbacks
   K: 0.4     // Kickers - lowest value
 };
 
@@ -452,12 +452,9 @@ function calculateFantasyScores(players) {
     const multiplier = POS_MULTIPLIERS[player.pos] || 1.0;
     let draftScore = grade * multiplier;
 
-    // ELITE DEFENDER FIX: Small boost for generational defensive players
-    // Gives elite defenders a modest bump without overvaluing them
-    if (isGenerational && ['EDGE', 'LB', 'DL', 'S', 'CB'].includes(player.pos)) {
-      draftScore += 0.3;
-      console.log(`   ⭐ ${player.name} (${player.pos}) - Generational boost applied`);
-    }
+    // ELITE DEFENDER FIX: Removed generational boost for defensive players
+    // Defensive players now rely solely on position multipliers
+    // (No additional boost applied)
 
     // Round to 2 decimals
     draftScore = Math.round(draftScore * 100) / 100;
