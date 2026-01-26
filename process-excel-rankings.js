@@ -85,11 +85,11 @@ const POS_MULTIPLIERS = {
   RB: 1.4,   // Running backs
   WR: 1.4,   // Wide receivers
   TE: 1.2,   // Tight ends
-  EDGE: 0.70,// Edge rushers - premium defensive
-  LB: 0.55,  // Linebackers
-  DL: 0.50,  // Defensive line
-  S: 0.50,   // Safeties
-  CB: 0.35,  // Cornerbacks
+  EDGE: 0.50,// Edge rushers - premium defensive
+  LB: 0.40,  // Linebackers
+  DL: 0.35,  // Defensive line
+  S: 0.35,   // Safeties
+  CB: 0.25,  // Cornerbacks
   K: 0.4     // Kickers - lowest value
 };
 
