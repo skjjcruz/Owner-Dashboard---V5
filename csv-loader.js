@@ -55,6 +55,8 @@ async function loadPlayersFromCSV() {
             obj[header] = value ? parseFloat(value) : null;
           } else if (header === 'speed') {
             obj[header] = value || null;
+          } else if (header === 'isGenerational') {
+            obj[header] = value === 'true';
           } else {
             obj[header] = value || null;
           }
